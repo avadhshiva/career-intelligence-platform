@@ -1,0 +1,17 @@
+{
+  "fixture_id": "rw_release_governance_lead",
+  "resume_text": "\nPat Olsen | pat.olsen@email.com\n\nEXPERIENCE\nRelease Governance Lead | ShipCo | 2016 \u2013 Present\n\u2022 Owned release calendar, cutover planning, UAT coordination, and hypercare\n\u2022 Release train engineer for SAFe ART with quality gates and release governance\n\u2022 SDLC and CI/CD pipeline governance across platform teams\n\u2022 Dependency management and release readiness reviews\n\nRelease Manager | BuildSys | 2011 \u2013 2016\n\u2022 Release management, cutover, production deployment governance\n\nSKILLS\nRelease management, release train, CI/CD, SDLC, SAFE, quality gate, agile\n",
+  "expected_primary": "release_governance",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "technical_program_management",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "product_management",
+    "ai_governance",
+    "hr"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

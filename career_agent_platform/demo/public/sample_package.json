@@ -1,0 +1,341 @@
+{
+  "description": "Sanitized application package snapshot (not persisted to applications/data)",
+  "package": {
+    "package_id": "demo-public-pkg-001",
+    "source_job_id": "sample_release_gov_001",
+    "tailored_resume_id": "tailored_sample_release_gov_001_56df07086e8ba73f",
+    "job_title": "Release Governance Lead",
+    "company": "Enterprise Corp",
+    "generated_at": "2026-05-31T11:17:28.273182+00:00",
+    "generated_from_evidence": [
+      "Led cross-functional technical delivery with executive stakeholder reporting",
+      "Owned release train, SDLC alignment, and dependency management across engineering teams",
+      "Release governance, PI planning, and portfolio coordination"
+    ],
+    "confidence": 0.95,
+    "approval_status": "generated",
+    "explanation": [
+      "Generated from verified release governance and TPM evidence already present in the resume.",
+      "Resume alignment sourced from overall_match (84%).",
+      "Overall application quality score 83% \u2014 weighted blend of alignment, ATS, leadership, keywords, confidence, readability, and completeness."
+    ],
+    "tailored_resume_text": "Morgan Lee\n\nEXPERIENCE\nSenior Technical Program Manager | Example Industries | 2018 \u2013 Present\n--- Tailored for: Release Governance Lead @ Enterprise Corp (deterministic emphasis; no new claims) ---\n\u2022 Led cross-functional technical delivery with executive stakeholder reporting\n\u2022 Owned release train, SDLC alignment, and dependency management across engineering teams\n\u2022 Release governance, PI planning, and portfolio coordination\nProgram management, SDLC, agile, cloud platforms, governance, stakeholder management\nTechnical Program Manager | Sample Systems | 2013 \u2013 2018\n\u2022 Coordinated architecture reviews and CI/CD adoption for enterprise cloud programs\n\u2022 Managed multi-region rollout for large enterprise transformation programs\n\n\nSKILLS",
+    "cover_letter": {
+      "body": "Dear Hiring Team,\n\nI am writing to express interest in the Release Governance Lead role at Enterprise Corp. Shortlist-ready for Release Governance; capability themes match role priorities.\n\nMy background includes verified experience such as: Led cross-functional technical delivery with executive stakeholder reporting; Owned release train, SDLC alignment, and dependency management across engineering teams. I am well suited because my verified track record maps to your stated needs in Shortlist-ready for Release Governance; capability themes match role priorities. Evidence clusters around technical execution and adjacent delivery themes..\n\nI bring release governance and executive reporting discipline grounded in evidence already documented on my resume. \n\nI would welcome a conversation to discuss how my documented experience can support your team. Thank you for your consideration.\n\nSincerely,\nMorgan Lee",
+      "generated_from_evidence": [
+        "Resume bullet: Led cross-functional technical delivery with executive stakeholder reporting",
+        "Resume bullet: Owned release train, SDLC alignment, and dependency management across engineerin...",
+        "Resume bullet: Release governance, PI planning, and portfolio coordination"
+      ],
+      "confidence": 0.95,
+      "explanation": [
+        "Generated from verified release governance and TPM evidence already present in the resume.",
+        "Generated from verified release governance and TPM evidence already present in the resume."
+      ]
+    },
+    "recruiter_message": {
+      "linkedin_intro": "Hi \u2014 I am Morgan Lee, exploring the Release Governance Lead opportunity at Enterprise Corp. My background includes Led cross-functional technical delivery with executive stakeholder reporting. I believe there is meaningful alignment with your team's priorities and would welcome a brief conversation if you are the right contact. Happy to work around your schedule.",
+      "hiring_manager_note": "Subject: Release Governance Lead \u2014 brief introduction\n\nI am interested in the Release Governance Lead position at Enterprise Corp. Verified strengths for your team include Led cross-functional technical delivery with executive stakeholder reporting. I lead with governance-aware program delivery and transparent executive reporting. Happy to share a tailored resume and discuss fit in a 20-minute call.",
+      "referral_request": "Hello \u2014 I am exploring the Release Governance Lead role at Enterprise Corp and wondered if you might consider a referral or warm introduction. My resume documents Led cross-functional technical delivery with executive stakeholder reporting; I am not asking for endorsement beyond what you are comfortable attesting. Thank you for any guidance.",
+      "generated_from_evidence": [
+        "Resume bullet: Led cross-functional technical delivery with executive stakeholder rep...",
+        "Resume bullet: Owned release train, SDLC alignment, and dependency management across ...",
+        "Resume bullet: Release governance, PI planning, and portfolio coordination"
+      ],
+      "confidence": 0.95,
+      "explanation": [
+        "Generated from verified release governance and TPM evidence already present in the resume.",
+        "Messages use only verified resume snippets; no fabricated metrics or tools."
+      ]
+    },
+    "interview_prep": {
+      "likely_focus_areas": [
+        "Release governance, PI planning, and deployment readiness",
+        "Transformation roadmap and change leadership",
+        "Cross-functional technical delivery and dependency management",
+        "Architecture coordination and platform migration trade-offs"
+      ],
+      "strongest_strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume"
+      ],
+      "probable_gap_questions": [
+        "Walk me through a recent program where you owned governance cadence end-to-end."
+      ],
+      "preparation_topics": [
+        "Prepare narrative for: Prioritize release train, deployment governance, and quality metrics in the top third of the resume.",
+        "Prepare narrative for: Highlight release train, PI planning, and SDLC governance ownership with cadence and quality metrics.",
+        "Steering committee examples and release calendar ownership",
+        "Transformation outcomes with measurable scope from resume only"
+      ],
+      "risk_areas": [
+        "Validate depth on any dimension below competitive threshold before final round."
+      ],
+      "generated_from_evidence": [
+        "Match strength: Hands-on technical execution depth matches delivery-heavy expectations",
+        "Match strength: Release train and delivery governance depth stand out",
+        "Match strength: Matrix stakeholder leadership reads clearly on the resume"
+      ],
+      "confidence": 0.95,
+      "explanation": [
+        "Interview prep highlights portfolio governance because JD emphasizes executive reporting.",
+        "Interview prep derived from role fit assessment and verified resume bullets only."
+      ]
+    },
+    "quality_scores": {
+      "resume_alignment": 0.8388,
+      "ats_readiness": 0.8507749999999998,
+      "leadership_fit": 0.53471,
+      "keyword_coverage": 0.8,
+      "confidence": 0.95,
+      "recruiter_readability": 1.0,
+      "application_completeness": 1.0,
+      "overall_application_quality_score": 0.82790005,
+      "explanation": [
+        "Resume alignment sourced from overall_match (84%).",
+        "Overall application quality score 83% \u2014 weighted blend of alignment, ATS, leadership, keywords, confidence, readability, and completeness."
+      ]
+    },
+    "artifacts": [
+      {
+        "artifact_type": "tailored_resume",
+        "content": "Morgan Lee\n\nEXPERIENCE\nSenior Technical Program Manager | Example Industries | 2018 \u2013 Present\n--- Tailored for: Release Governance Lead @ Enterprise Corp (deterministic emphasis; no new claims) ---\n\u2022 Led cross-functional technical delivery with executive stakeholder reporting\n\u2022 Owned release train, SDLC alignment, and dependency management across engineering teams\n\u2022 Release governance, PI planning, and portfolio coordination\nProgram management, SDLC, agile, cloud platforms, governance, stakeholder management\nTechnical Program Manager | Sample Systems | 2013 \u2013 2018\n\u2022 Coordinated architecture reviews and CI/CD adoption for enterprise cloud programs\n\u2022 Managed multi-region rollout for large enterprise transformation programs\n\n\nSKILLS",
+        "generated_from_evidence": [
+          "Led cross-functional technical delivery with executive stakeholder reporting",
+          "Owned release train, SDLC alignment, and dependency management across engineering teams",
+          "Release governance, PI planning, and portfolio coordination"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Generated from verified release governance and TPM evidence already present in the resume.",
+          "Generated from verified resume evidence aligned to dominant match dimensions."
+        ]
+      },
+      {
+        "artifact_type": "cover_letter",
+        "content": "Dear Hiring Team,\n\nI am writing to express interest in the Release Governance Lead role at Enterprise Corp. Shortlist-ready for Release Governance; capability themes match role priorities.\n\nMy background includes verified experience such as: Led cross-functional technical delivery with executive stakeholder reporting; Owned release train, SDLC alignment, and dependency management across engineering teams. I am well suited because my verified track record maps to your stated needs in Shortlist-ready for Release Governance; capability themes match role priorities. Evidence clusters around technical execution and adjacent delivery themes..\n\nI bring release governance and executive reporting discipline grounded in evidence already documented on my resume. \n\nI would welcome a conversation to discuss how my documented experience can support your team. Thank you for your consideration.\n\nSincerely,\nMorgan Lee",
+        "generated_from_evidence": [
+          "Resume bullet: Led cross-functional technical delivery with executive stakeholder reporting",
+          "Resume bullet: Owned release train, SDLC alignment, and dependency management across engineerin...",
+          "Resume bullet: Release governance, PI planning, and portfolio coordination"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Generated from verified release governance and TPM evidence already present in the resume.",
+          "Generated from verified release governance and TPM evidence already present in the resume."
+        ]
+      },
+      {
+        "artifact_type": "recruiter_linkedin",
+        "content": "Hi \u2014 I am Morgan Lee, exploring the Release Governance Lead opportunity at Enterprise Corp. My background includes Led cross-functional technical delivery with executive stakeholder reporting. I believe there is meaningful alignment with your team's priorities and would welcome a brief conversation if you are the right contact. Happy to work around your schedule.",
+        "generated_from_evidence": [
+          "Resume bullet: Led cross-functional technical delivery with executive stakeholder rep...",
+          "Resume bullet: Owned release train, SDLC alignment, and dependency management across ...",
+          "Resume bullet: Release governance, PI planning, and portfolio coordination"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Generated from verified release governance and TPM evidence already present in the resume.",
+          "Messages use only verified resume snippets; no fabricated metrics or tools."
+        ]
+      },
+      {
+        "artifact_type": "recruiter_hiring_manager",
+        "content": "Subject: Release Governance Lead \u2014 brief introduction\n\nI am interested in the Release Governance Lead position at Enterprise Corp. Verified strengths for your team include Led cross-functional technical delivery with executive stakeholder reporting. I lead with governance-aware program delivery and transparent executive reporting. Happy to share a tailored resume and discuss fit in a 20-minute call.",
+        "generated_from_evidence": [
+          "Resume bullet: Led cross-functional technical delivery with executive stakeholder rep...",
+          "Resume bullet: Owned release train, SDLC alignment, and dependency management across ...",
+          "Resume bullet: Release governance, PI planning, and portfolio coordination"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Generated from verified release governance and TPM evidence already present in the resume.",
+          "Messages use only verified resume snippets; no fabricated metrics or tools."
+        ]
+      },
+      {
+        "artifact_type": "recruiter_referral",
+        "content": "Hello \u2014 I am exploring the Release Governance Lead role at Enterprise Corp and wondered if you might consider a referral or warm introduction. My resume documents Led cross-functional technical delivery with executive stakeholder reporting; I am not asking for endorsement beyond what you are comfortable attesting. Thank you for any guidance.",
+        "generated_from_evidence": [
+          "Resume bullet: Led cross-functional technical delivery with executive stakeholder rep...",
+          "Resume bullet: Owned release train, SDLC alignment, and dependency management across ...",
+          "Resume bullet: Release governance, PI planning, and portfolio coordination"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Generated from verified release governance and TPM evidence already present in the resume.",
+          "Messages use only verified resume snippets; no fabricated metrics or tools."
+        ]
+      },
+      {
+        "artifact_type": "interview_prep",
+        "content": "INTERVIEW PREPARATION SUMMARY\n\nLikely focus areas:\n  \u2022 Release governance, PI planning, and deployment readiness\n  \u2022 Transformation roadmap and change leadership\n  \u2022 Cross-functional technical delivery and dependency management\n  \u2022 Architecture coordination and platform migration trade-offs\n\nStrongest strengths:\n  \u2022 Hands-on technical execution depth matches delivery-heavy expectations\n  \u2022 Release train and delivery governance depth stand out\n  \u2022 Matrix stakeholder leadership reads clearly on the resume\n\nProbable gap questions:\n  \u2022 Walk me through a recent program where you owned governance cadence end-to-end.\n\nPreparation topics:\n  \u2022 Prepare narrative for: Prioritize release train, deployment governance, and quality metrics in the top third of the resume.\n  \u2022 Prepare narrative for: Highlight release train, PI planning, and SDLC governance ownership with cadence and quality metrics.\n  \u2022 Steering committee examples and release calendar ownership\n  \u2022 Transformation outcomes with measurable scope from resume only\n\nRisk areas:\n  \u2022 Validate depth on any dimension below competitive threshold before final round.",
+        "generated_from_evidence": [
+          "Match strength: Hands-on technical execution depth matches delivery-heavy expectations",
+          "Match strength: Release train and delivery governance depth stand out",
+          "Match strength: Matrix stakeholder leadership reads clearly on the resume"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Interview prep highlights portfolio governance because JD emphasizes executive reporting.",
+          "Interview prep derived from role fit assessment and verified resume bullets only."
+        ]
+      },
+      {
+        "artifact_type": "quality_report",
+        "content": "Overall application quality: 83%\nResume alignment: 84%\nATS readiness: 85%\nLeadership fit: 53%\nKeyword coverage: 80%\nRecruiter readability: 100%\nCompleteness: 100%",
+        "generated_from_evidence": [
+          "Led cross-functional technical delivery with executive stakeholder reporting",
+          "Owned release train, SDLC alignment, and dependency management across engineering teams",
+          "Release governance, PI planning, and portfolio coordination"
+        ],
+        "confidence": 0.95,
+        "explanation": [
+          "Resume alignment sourced from overall_match (84%).",
+          "Overall application quality score 83% \u2014 weighted blend of alignment, ATS, leadership, keywords, confidence, readability, and completeness."
+        ]
+      }
+    ],
+    "reviewer_notes": "",
+    "rejection_reason": "",
+    "state_history": [
+      {
+        "from_state": "created",
+        "to_state": "generated",
+        "timestamp": "2026-05-31T11:17:28.273182+00:00",
+        "review_notes": "Application package generated.",
+        "reviewer_action_reason": "package_created",
+        "success": true,
+        "warning": ""
+      }
+    ],
+    "recommendation_snapshot": {
+      "job_id": "sample_release_gov_001",
+      "job_title": "Release Governance Lead",
+      "company": "Enterprise Corp",
+      "source": "mock",
+      "overall_match": 0.8388,
+      "confidence": 0.95,
+      "eligibility_passed": true,
+      "strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Program delivery outcomes are well represented"
+      ],
+      "gaps": [],
+      "risks": [],
+      "recruiter_summary": "Shortlist-ready for Release Governance; capability themes match role priorities. Evidence clusters around technical execution and adjacent delivery themes.",
+      "recommendation_priority": "GOOD_MATCH",
+      "approval_status": "approved",
+      "rejection_reason": "",
+      "why_matched": [
+        "Meets role-critical eligibility for this role family.",
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Steering and governance ownership less visible than role demands",
+        "Transformation narrative credible for scope",
+        "Capability mix matches the role's delivery emphasis"
+      ],
+      "why_not_matched": [],
+      "top_strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume"
+      ],
+      "top_risks": [],
+      "missing_capabilities": [],
+      "dominant_dimensions": [
+        "Technical Execution",
+        "Release Governance",
+        "Stakeholder Complexity",
+        "Delivery Execution",
+        "Enterprise Governance"
+      ],
+      "missing_dimensions": [],
+      "match_detail": {
+        "overall_match_score": 0.8388,
+        "confidence": 0.95,
+        "capability_similarity": 0.9031,
+        "eligibility_fit": 1.0,
+        "seniority_fit": 0.85,
+        "transformation_fit": 0.9,
+        "architecture_fit": 0.5231,
+        "governance_fit": 0.2222,
+        "risk_penalties": [],
+        "fit_summary": "Shortlist-ready for Release Governance; capability themes match role priorities. Evidence clusters around technical execution and adjacent delivery themes.",
+        "risks": [],
+        "missing_capabilities": [],
+        "dominant_match_dimensions": [
+          "Technical Execution",
+          "Release Governance",
+          "Stakeholder Complexity",
+          "Delivery Execution",
+          "Enterprise Governance"
+        ],
+        "strengths": [
+          "Hands-on technical execution depth matches delivery-heavy expectations",
+          "Release train and delivery governance depth stand out",
+          "Matrix stakeholder leadership reads clearly on the resume",
+          "Program delivery outcomes are well represented"
+        ],
+        "gaps": [],
+        "recommended_resume_improvements": [
+          "Prioritize release train, deployment governance, and quality metrics in the top third of the resume.",
+          "Highlight release train, PI planning, and SDLC governance ownership with cadence and quality metrics."
+        ],
+        "gate_passed": true,
+        "gate_reasons": [],
+        "scorer_path": "deterministic_job_match_v1",
+        "primary_role_family": "release_governance",
+        "is_product_heavy": false,
+        "is_operations_heavy": false,
+        "is_ai_transformation": false,
+        "is_release_governance_heavy": true,
+        "is_architecture_heavy": true,
+        "fit_lenses": {
+          "governance": "Steering and governance ownership less visible than role demands",
+          "transformation": "Transformation narrative credible for scope",
+          "execution": "Capability mix matches the role's delivery emphasis"
+        },
+        "diagnostics": {
+          "role_cluster": "Release Governance",
+          "candidate_primary_track": "technical_program_management",
+          "candidate_cluster": "Technical Program Management",
+          "job_primary_family": "release_governance",
+          "matched_role_clusters": [
+            "Release Governance"
+          ],
+          "top_matching_dimensions": [
+            "Technical Execution",
+            "Release Governance",
+            "Stakeholder Complexity",
+            "Delivery Execution",
+            "Enterprise Governance"
+          ],
+          "missing_dimensions": [],
+          "missing_capabilities": [],
+          "adjacency": {
+            "is_primary_match": false,
+            "is_adjacent_match": true,
+            "candidate_adjacent_families": [
+              "enterprise_delivery",
+              "release_governance"
+            ],
+            "reasoning": [
+              "Job family release_governance is in candidate adjacent families."
+            ]
+          },
+          "fit_lenses": {},
+          "gate_passed": true,
+          "gate_reasons": []
+        },
+        "calibrated_priority": "GOOD_MATCH",
+        "location": "Hybrid"
+      }
+    },
+    "last_warning": ""
+  }
+}

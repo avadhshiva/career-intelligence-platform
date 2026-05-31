@@ -1,0 +1,213 @@
+{
+  "feed_id": "curated_market_v1",
+  "description": "Sample curated market feed — TPM, release, program, and operations roles across India hubs.",
+  "disclaimer": "Curated opportunities with estimated fit. Not a live job board.",
+  "opportunities": [
+    {
+      "job_id": "mkt_blr_tpm_001",
+      "company": "Infosys",
+      "role": "Senior Technical Program Manager",
+      "location": "Bengaluru",
+      "jd_summary": "Own release train and SDLC governance for a Fortune 500 banking portfolio; coordinate architecture reviews and PI planning.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/infosys/tpm-blr-001",
+      "role_family": "technical_program_management",
+      "salary_range": "₹38–52 LPA"
+    },
+    {
+      "job_id": "mkt_blr_release_001",
+      "company": "Wipro",
+      "role": "Release Governance Lead",
+      "location": "Bengaluru",
+      "jd_summary": "Establish release calendar, deployment governance, and SAFE PI planning across enterprise applications.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/wipro/release-blr-001",
+      "role_family": "release_governance",
+      "salary_range": "₹32–45 LPA"
+    },
+    {
+      "job_id": "mkt_blr_program_001",
+      "company": "TCS",
+      "role": "Enterprise Program Manager",
+      "location": "Bengaluru",
+      "jd_summary": "Lead cross-functional technical delivery for cloud migration programs with executive stakeholder management.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/tcs/program-blr-001",
+      "role_family": "program_management"
+    },
+    {
+      "job_id": "mkt_blr_ai_001",
+      "company": "Tech Mahindra",
+      "role": "AI Program Lead",
+      "location": "Bengaluru",
+      "jd_summary": "Drive GenAI pilot initiatives with engineering and data science; governance for responsible AI rollout.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/techm/ai-program-blr-001",
+      "role_family": "ai_program",
+      "salary_range": "₹40–55 LPA"
+    },
+    {
+      "job_id": "mkt_hyd_tpm_001",
+      "company": "Microsoft India",
+      "role": "Technical Program Manager II",
+      "location": "Hyderabad",
+      "jd_summary": "Coordinate CI/CD adoption and dependency management across distributed engineering teams on Azure services.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/microsoft/tpm-hyd-001",
+      "role_family": "technical_program_management",
+      "salary_range": "₹45–62 LPA"
+    },
+    {
+      "job_id": "mkt_hyd_ops_001",
+      "company": "Amazon",
+      "role": "Operations Program Manager",
+      "location": "Hyderabad",
+      "jd_summary": "Own operational continuity, incident management cadence, and SLA governance for production systems.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/amazon/ops-pm-hyd-001",
+      "role_family": "operations"
+    },
+    {
+      "job_id": "mkt_hyd_release_001",
+      "company": "Qualcomm",
+      "role": "Release Train Engineer",
+      "location": "Hyderabad",
+      "jd_summary": "Facilitate PI planning, release readiness, and architecture board alignment for platform releases.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/qualcomm/rte-hyd-001",
+      "role_family": "release_governance"
+    },
+    {
+      "job_id": "mkt_chennai_tpm_001",
+      "company": "Cognizant",
+      "role": "Senior TPM — Enterprise Delivery",
+      "location": "Chennai",
+      "jd_summary": "Manage Fortune 500 client rollout with steering committee reporting and global matrix coordination.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/cognizant/tpm-chn-001",
+      "role_family": "technical_program_management"
+    },
+    {
+      "job_id": "mkt_chennai_program_001",
+      "company": "HCLTech",
+      "role": "Program Director",
+      "location": "Chennai",
+      "jd_summary": "Portfolio governance, benefits realization, and transformation program delivery across regulated industries.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/hcl/program-dir-chn-001",
+      "role_family": "program_management",
+      "salary_range": "₹42–58 LPA"
+    },
+    {
+      "job_id": "mkt_chennai_release_001",
+      "company": "Ford Technology India",
+      "role": "Release Manager",
+      "location": "Chennai",
+      "jd_summary": "Cutover management, deployment governance, and SDLC alignment for automotive software platforms.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/ford/release-chn-001",
+      "role_family": "release_governance"
+    },
+    {
+      "job_id": "mkt_pune_tpm_001",
+      "company": "Persistent Systems",
+      "role": "Technical Program Manager",
+      "location": "Pune",
+      "jd_summary": "Cross-functional technical delivery for SaaS platform modernization with architecture coordination.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/persistent/tpm-pune-001",
+      "role_family": "technical_program_management"
+    },
+    {
+      "job_id": "mkt_pune_ops_001",
+      "company": "Bajaj Finserv",
+      "role": "IT Operations Manager",
+      "location": "Pune",
+      "jd_summary": "Production support leadership, NOC coordination, and service operations governance for fintech systems.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/bajaj/ops-pune-001",
+      "role_family": "operations"
+    },
+    {
+      "job_id": "mkt_pune_ai_001",
+      "company": "Siemens",
+      "role": "AI Transformation Program Manager",
+      "location": "Pune",
+      "jd_summary": "Enterprise AI adoption roadmap with engineering partners; operating model for pilot-to-production scale.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/siemens/ai-pm-pune-001",
+      "role_family": "ai_program"
+    },
+    {
+      "job_id": "mkt_cbe_tpm_001",
+      "company": "L&T Technology Services",
+      "role": "Senior Technical Program Manager",
+      "location": "Coimbatore",
+      "jd_summary": "Release governance and dependency management for industrial IoT programs with global delivery teams.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/ltts/tpm-cbe-001",
+      "role_family": "technical_program_management"
+    },
+    {
+      "job_id": "mkt_cbe_release_001",
+      "company": "Robert Bosch Engineering",
+      "role": "Release Governance Specialist",
+      "location": "Coimbatore",
+      "jd_summary": "SAFE practices, release calendar ownership, and architecture review facilitation for embedded platforms.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/bosch/release-cbe-001",
+      "role_family": "release_governance"
+    },
+    {
+      "job_id": "mkt_remote_tpm_001",
+      "company": "Atlassian",
+      "role": "Senior Technical Program Manager",
+      "location": "Remote",
+      "jd_summary": "Remote-first TPM owning platform reliability programs, CI/CD governance, and cross-region delivery.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/atlassian/tpm-remote-001",
+      "role_family": "technical_program_management",
+      "salary_range": "₹50–70 LPA"
+    },
+    {
+      "job_id": "mkt_remote_program_001",
+      "company": "Stripe",
+      "role": "Program Manager — Infrastructure",
+      "location": "Remote",
+      "jd_summary": "Portfolio-level program delivery for payments infrastructure with executive stakeholder alignment.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/stripe/pm-remote-001",
+      "role_family": "program_management"
+    },
+    {
+      "job_id": "mkt_remote_release_001",
+      "company": "GitLab",
+      "role": "Release Operations Lead",
+      "location": "Remote",
+      "jd_summary": "Global release train, deployment governance, and DevOps platform adoption across product engineering.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/gitlab/release-remote-001",
+      "role_family": "release_governance"
+    },
+    {
+      "job_id": "mkt_blr_ops_001",
+      "company": "Flipkart",
+      "role": "Senior Operations Program Manager",
+      "location": "Bengaluru",
+      "jd_summary": "Scale operations for e-commerce peak events; incident management and operational continuity at national scale.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/flipkart/ops-blr-001",
+      "role_family": "operations"
+    },
+    {
+      "job_id": "mkt_hyd_program_001",
+      "company": "Deloitte USI",
+      "role": "Transformation Program Manager",
+      "location": "Hyderabad",
+      "jd_summary": "Enterprise operating model redesign with steering committee cadence and portfolio governance.",
+      "source": "curated_feed",
+      "job_url": "https://careers.example.com/deloitte/transform-hyd-001",
+      "role_family": "program_management"
+    }
+  ]
+}

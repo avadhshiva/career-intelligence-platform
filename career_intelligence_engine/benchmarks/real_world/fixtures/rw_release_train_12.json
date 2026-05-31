@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_release_train_12",
+  "resume_text": "\nCandidate L-3298 | l3298@anon.example\nRelease Train Engineer | Automotive | 2018 \u2013 Present\n\u2022 Release governance, PI planning, and agile release train facilitation\n\u2022 SDLC alignment and deployment governance across product lines\n\u2022 Quality gates and release readiness criteria\n",
+  "expected_primary": "release_governance",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "technical_program_management",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "product_management",
+    "hr"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.3
+}

@@ -1,0 +1,986 @@
+{
+  "ai_transformation_director": {
+    "ai_governance": {
+      "final_score": 0.1816,
+      "ontology_score": 5.954
+    },
+    "ai_program_management": {
+      "final_score": 0.032,
+      "ontology_score": 11.119
+    },
+    "ai_transformation": {
+      "final_score": 0.965,
+      "ontology_score": 40.467
+    },
+    "cloud_transformation": {
+      "final_score": 0.5176,
+      "ontology_score": 0.865
+    },
+    "digital_transformation": {
+      "final_score": 0.697,
+      "ontology_score": 10.307
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.865
+    },
+    "enterprise_delivery": {
+      "final_score": 0.1251,
+      "ontology_score": 8.17
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 3.412
+    },
+    "finance": {
+      "final_score": 0.1605,
+      "ontology_score": 1.982
+    },
+    "hr": {
+      "final_score": 0.5364,
+      "ontology_score": 0.922
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 2.807
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 0.865
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 1.641
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 1.595
+    },
+    "program_leadership": {
+      "final_score": 0.3964,
+      "ontology_score": 5.635
+    },
+    "release_governance": {
+      "final_score": 0.0,
+      "ontology_score": 2.018
+    },
+    "sales": {
+      "final_score": 0.2888,
+      "ontology_score": 0.595
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 0.844
+    },
+    "technical_program_management": {
+      "final_score": 0.0,
+      "ontology_score": 1.998
+    },
+    "transformation_office": {
+      "final_score": 0.7773,
+      "ontology_score": 14.244
+    }
+  },
+  "cloud_transformation_lead": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 1.457
+    },
+    "ai_program_management": {
+      "final_score": 0.0,
+      "ontology_score": 1.495
+    },
+    "ai_transformation": {
+      "final_score": 0.0088,
+      "ontology_score": 1.586
+    },
+    "cloud_transformation": {
+      "final_score": 0.6434,
+      "ontology_score": 44.869
+    },
+    "digital_transformation": {
+      "final_score": 0.4404,
+      "ontology_score": 3.46
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.785
+    },
+    "enterprise_delivery": {
+      "final_score": 0.5388,
+      "ontology_score": 2.76
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 1.141
+    },
+    "finance": {
+      "final_score": 0.4155,
+      "ontology_score": 0.625
+    },
+    "hr": {
+      "final_score": 0.2455,
+      "ontology_score": 3.582
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.845
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 9.529
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.993
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.856
+    },
+    "program_leadership": {
+      "final_score": 0.5471,
+      "ontology_score": 10.407
+    },
+    "release_governance": {
+      "final_score": 0.0878,
+      "ontology_score": 1.321
+    },
+    "sales": {
+      "final_score": 0.1849,
+      "ontology_score": 0.376
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 4.938
+    },
+    "technical_program_management": {
+      "final_score": 0.1329,
+      "ontology_score": 4.22
+    },
+    "transformation_office": {
+      "final_score": 0.5258,
+      "ontology_score": 5.713
+    }
+  },
+  "enterprise_architect": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 1.413
+    },
+    "ai_program_management": {
+      "final_score": 0.1016,
+      "ontology_score": 1.485
+    },
+    "ai_transformation": {
+      "final_score": 0.131,
+      "ontology_score": 1.479
+    },
+    "cloud_transformation": {
+      "final_score": 0.4379,
+      "ontology_score": 1.015
+    },
+    "digital_transformation": {
+      "final_score": 0.2849,
+      "ontology_score": 2.401
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.6577,
+      "ontology_score": 34.455
+    },
+    "enterprise_delivery": {
+      "final_score": 0.3083,
+      "ontology_score": 5.955
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 1.308
+    },
+    "finance": {
+      "final_score": 0.2204,
+      "ontology_score": 0.695
+    },
+    "hr": {
+      "final_score": 0.3716,
+      "ontology_score": 0.678
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.99
+    },
+    "platform_modernization": {
+      "final_score": 0.4567,
+      "ontology_score": 5.718
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 1.183
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.949
+    },
+    "program_leadership": {
+      "final_score": 0.3475,
+      "ontology_score": 1.661
+    },
+    "release_governance": {
+      "final_score": 0.2416,
+      "ontology_score": 1.559
+    },
+    "sales": {
+      "final_score": 0.3966,
+      "ontology_score": 0.459
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 5.012
+    },
+    "technical_program_management": {
+      "final_score": 0.5915,
+      "ontology_score": 3.948
+    },
+    "transformation_office": {
+      "final_score": 0.1834,
+      "ontology_score": 1.527
+    }
+  },
+  "enterprise_delivery_manager": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 1.329
+    },
+    "ai_program_management": {
+      "final_score": 0.0047,
+      "ontology_score": 1.591
+    },
+    "ai_transformation": {
+      "final_score": 0.0081,
+      "ontology_score": 1.59
+    },
+    "cloud_transformation": {
+      "final_score": 0.4818,
+      "ontology_score": 0.76
+    },
+    "digital_transformation": {
+      "final_score": 0.6103,
+      "ontology_score": 2.498
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.76
+    },
+    "enterprise_delivery": {
+      "final_score": 0.8707,
+      "ontology_score": 37.122
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 1.19
+    },
+    "finance": {
+      "final_score": 0.4142,
+      "ontology_score": 0.58
+    },
+    "hr": {
+      "final_score": 0.4271,
+      "ontology_score": 3.698
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.856
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 0.76
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 1.097
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.927
+    },
+    "program_leadership": {
+      "final_score": 0.4052,
+      "ontology_score": 4.593
+    },
+    "release_governance": {
+      "final_score": 0.2409,
+      "ontology_score": 4.327
+    },
+    "sales": {
+      "final_score": 0.2485,
+      "ontology_score": 3.409
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 0.534
+    },
+    "technical_program_management": {
+      "final_score": 0.111,
+      "ontology_score": 1.316
+    },
+    "transformation_office": {
+      "final_score": 0.2287,
+      "ontology_score": 2.591
+    }
+  },
+  "operations_manager": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 0.32
+    },
+    "ai_program_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.338
+    },
+    "ai_transformation": {
+      "final_score": 0.1116,
+      "ontology_score": 0.358
+    },
+    "cloud_transformation": {
+      "final_score": 0.1955,
+      "ontology_score": 0.16
+    },
+    "digital_transformation": {
+      "final_score": 0.3257,
+      "ontology_score": 0.33
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "enterprise_delivery": {
+      "final_score": 0.5061,
+      "ontology_score": 0.276
+    },
+    "enterprise_operations": {
+      "final_score": 0.6602,
+      "ontology_score": 4.535
+    },
+    "finance": {
+      "final_score": 0.488,
+      "ontology_score": 0.133
+    },
+    "hr": {
+      "final_score": 0.6207,
+      "ontology_score": 0.124
+    },
+    "operations": {
+      "final_score": 0.679,
+      "ontology_score": 16.88
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.215
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.189
+    },
+    "program_leadership": {
+      "final_score": 0.3358,
+      "ontology_score": 0.329
+    },
+    "release_governance": {
+      "final_score": 0.0056,
+      "ontology_score": 0.281
+    },
+    "sales": {
+      "final_score": 0.4242,
+      "ontology_score": 0.081
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 0.098
+    },
+    "technical_program_management": {
+      "final_score": 0.0584,
+      "ontology_score": 0.265
+    },
+    "transformation_office": {
+      "final_score": 0.1523,
+      "ontology_score": 0.361
+    }
+  },
+  "platform_modernization_lead": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 0.32
+    },
+    "ai_program_management": {
+      "final_score": 0.1902,
+      "ontology_score": 0.338
+    },
+    "ai_transformation": {
+      "final_score": 0.0385,
+      "ontology_score": 0.358
+    },
+    "cloud_transformation": {
+      "final_score": 0.7586,
+      "ontology_score": 0.16
+    },
+    "digital_transformation": {
+      "final_score": 0.4303,
+      "ontology_score": 0.33
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.8649,
+      "ontology_score": 4.244
+    },
+    "enterprise_delivery": {
+      "final_score": 0.3045,
+      "ontology_score": 0.276
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.246
+    },
+    "finance": {
+      "final_score": 0.3346,
+      "ontology_score": 0.133
+    },
+    "hr": {
+      "final_score": 0.1251,
+      "ontology_score": 0.124
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.18
+    },
+    "platform_modernization": {
+      "final_score": 0.7378,
+      "ontology_score": 21.26
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.215
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.189
+    },
+    "program_leadership": {
+      "final_score": 0.2566,
+      "ontology_score": 0.329
+    },
+    "release_governance": {
+      "final_score": 0.4633,
+      "ontology_score": 0.281
+    },
+    "sales": {
+      "final_score": 0.2254,
+      "ontology_score": 0.081
+    },
+    "software_engineering": {
+      "final_score": 0.1186,
+      "ontology_score": 0.098
+    },
+    "technical_program_management": {
+      "final_score": 0.7092,
+      "ontology_score": 2.764
+    },
+    "transformation_office": {
+      "final_score": 0.1299,
+      "ontology_score": 0.361
+    }
+  },
+  "product_delivery_lead": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 0.32
+    },
+    "ai_program_management": {
+      "final_score": 0.0194,
+      "ontology_score": 0.338
+    },
+    "ai_transformation": {
+      "final_score": 0.0,
+      "ontology_score": 0.358
+    },
+    "cloud_transformation": {
+      "final_score": 0.3675,
+      "ontology_score": 0.16
+    },
+    "digital_transformation": {
+      "final_score": 0.5409,
+      "ontology_score": 0.33
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "enterprise_delivery": {
+      "final_score": 0.6742,
+      "ontology_score": 3.276
+    },
+    "enterprise_operations": {
+      "final_score": 0.1788,
+      "ontology_score": 0.246
+    },
+    "finance": {
+      "final_score": 0.29,
+      "ontology_score": 0.133
+    },
+    "hr": {
+      "final_score": 0.1156,
+      "ontology_score": 0.124
+    },
+    "operations": {
+      "final_score": 0.0455,
+      "ontology_score": 9.18
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "product_delivery": {
+      "final_score": 0.8579,
+      "ontology_score": 24.586
+    },
+    "product_management": {
+      "final_score": 0.7547,
+      "ontology_score": 0.189
+    },
+    "program_leadership": {
+      "final_score": 0.2079,
+      "ontology_score": 0.329
+    },
+    "release_governance": {
+      "final_score": 0.2177,
+      "ontology_score": 0.281
+    },
+    "sales": {
+      "final_score": 0.3908,
+      "ontology_score": 0.081
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 0.098
+    },
+    "technical_program_management": {
+      "final_score": 0.1373,
+      "ontology_score": 1.764
+    },
+    "transformation_office": {
+      "final_score": 0.0,
+      "ontology_score": 0.361
+    }
+  },
+  "product_manager_b2c": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 0.32
+    },
+    "ai_program_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.338
+    },
+    "ai_transformation": {
+      "final_score": 0.0,
+      "ontology_score": 0.358
+    },
+    "cloud_transformation": {
+      "final_score": 0.2015,
+      "ontology_score": 0.16
+    },
+    "digital_transformation": {
+      "final_score": 0.4734,
+      "ontology_score": 0.33
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "enterprise_delivery": {
+      "final_score": 0.3509,
+      "ontology_score": 0.276
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.246
+    },
+    "finance": {
+      "final_score": 0.2012,
+      "ontology_score": 0.133
+    },
+    "hr": {
+      "final_score": 0.1208,
+      "ontology_score": 0.124
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.18
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "product_delivery": {
+      "final_score": 0.7934,
+      "ontology_score": 6.251
+    },
+    "product_management": {
+      "final_score": 0.817,
+      "ontology_score": 36.619
+    },
+    "program_leadership": {
+      "final_score": 0.0397,
+      "ontology_score": 1.829
+    },
+    "release_governance": {
+      "final_score": 0.0367,
+      "ontology_score": 0.281
+    },
+    "sales": {
+      "final_score": 0.5545,
+      "ontology_score": 0.081
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 0.098
+    },
+    "technical_program_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.265
+    },
+    "transformation_office": {
+      "final_score": 0.0,
+      "ontology_score": 0.361
+    }
+  },
+  "program_leadership_enterprise": {
+    "ai_governance": {
+      "final_score": 0.167,
+      "ontology_score": 3.95
+    },
+    "ai_program_management": {
+      "final_score": 0.1147,
+      "ontology_score": 4.45
+    },
+    "ai_transformation": {
+      "final_score": 0.2109,
+      "ontology_score": 4.7
+    },
+    "cloud_transformation": {
+      "final_score": 0.1864,
+      "ontology_score": 1.75
+    },
+    "digital_transformation": {
+      "final_score": 0.456,
+      "ontology_score": 5.325
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 1.75
+    },
+    "enterprise_delivery": {
+      "final_score": 0.6308,
+      "ontology_score": 4.975
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 4.525
+    },
+    "finance": {
+      "final_score": 0.6412,
+      "ontology_score": 1.55
+    },
+    "hr": {
+      "final_score": 0.4235,
+      "ontology_score": 6.136
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 3.65
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 1.75
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 2.675
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 2.4
+    },
+    "program_leadership": {
+      "final_score": 0.9419,
+      "ontology_score": 58.634
+    },
+    "release_governance": {
+      "final_score": 0.1085,
+      "ontology_score": 3.35
+    },
+    "sales": {
+      "final_score": 0.6256,
+      "ontology_score": 1.0
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 1.3
+    },
+    "technical_program_management": {
+      "final_score": 0.0668,
+      "ontology_score": 3.25
+    },
+    "transformation_office": {
+      "final_score": 0.518,
+      "ontology_score": 20.198
+    }
+  },
+  "release_governance_lead": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 0.32
+    },
+    "ai_program_management": {
+      "final_score": 0.3012,
+      "ontology_score": 0.338
+    },
+    "ai_transformation": {
+      "final_score": 0.0,
+      "ontology_score": 0.358
+    },
+    "cloud_transformation": {
+      "final_score": 0.4509,
+      "ontology_score": 0.16
+    },
+    "digital_transformation": {
+      "final_score": 0.255,
+      "ontology_score": 0.33
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "enterprise_delivery": {
+      "final_score": 0.4684,
+      "ontology_score": 0.276
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.246
+    },
+    "finance": {
+      "final_score": 0.1982,
+      "ontology_score": 0.133
+    },
+    "hr": {
+      "final_score": 0.074,
+      "ontology_score": 0.124
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.18
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 0.16
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.215
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.189
+    },
+    "program_leadership": {
+      "final_score": 0.0873,
+      "ontology_score": 0.329
+    },
+    "release_governance": {
+      "final_score": 0.9072,
+      "ontology_score": 40.753
+    },
+    "sales": {
+      "final_score": 0.1238,
+      "ontology_score": 1.581
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 1.365
+    },
+    "technical_program_management": {
+      "final_score": 0.4978,
+      "ontology_score": 10.663
+    },
+    "transformation_office": {
+      "final_score": 0.0,
+      "ontology_score": 0.361
+    }
+  },
+  "software_engineering_manager": {
+    "ai_governance": {
+      "final_score": 0.0,
+      "ontology_score": 0.32
+    },
+    "ai_program_management": {
+      "final_score": 0.042,
+      "ontology_score": 0.338
+    },
+    "ai_transformation": {
+      "final_score": 0.0,
+      "ontology_score": 0.358
+    },
+    "cloud_transformation": {
+      "final_score": 0.6819,
+      "ontology_score": 2.808
+    },
+    "digital_transformation": {
+      "final_score": 0.1535,
+      "ontology_score": 0.33
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.8052,
+      "ontology_score": 0.16
+    },
+    "enterprise_delivery": {
+      "final_score": 0.2792,
+      "ontology_score": 0.276
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.246
+    },
+    "finance": {
+      "final_score": 0.1244,
+      "ontology_score": 0.133
+    },
+    "hr": {
+      "final_score": 0.0465,
+      "ontology_score": 0.124
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.18
+    },
+    "platform_modernization": {
+      "final_score": 0.7785,
+      "ontology_score": 2.808
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.215
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.189
+    },
+    "program_leadership": {
+      "final_score": 0.0,
+      "ontology_score": 0.329
+    },
+    "release_governance": {
+      "final_score": 0.2345,
+      "ontology_score": 1.281
+    },
+    "sales": {
+      "final_score": 0.0838,
+      "ontology_score": 3.22
+    },
+    "software_engineering": {
+      "final_score": 0.8745,
+      "ontology_score": 33.045
+    },
+    "technical_program_management": {
+      "final_score": 0.6718,
+      "ontology_score": 2.764
+    },
+    "transformation_office": {
+      "final_score": 0.0,
+      "ontology_score": 0.361
+    }
+  },
+  "technical_program_manager_enterprise": {
+    "ai_governance": {
+      "final_score": 0.0985,
+      "ontology_score": 1.457
+    },
+    "ai_program_management": {
+      "final_score": 0.3709,
+      "ontology_score": 1.495
+    },
+    "ai_transformation": {
+      "final_score": 0.1334,
+      "ontology_score": 4.309
+    },
+    "cloud_transformation": {
+      "final_score": 0.4341,
+      "ontology_score": 7.768
+    },
+    "digital_transformation": {
+      "final_score": 0.4132,
+      "ontology_score": 2.46
+    },
+    "enterprise_architecture_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.785
+    },
+    "enterprise_delivery": {
+      "final_score": 0.6527,
+      "ontology_score": 2.76
+    },
+    "enterprise_operations": {
+      "final_score": 0.0,
+      "ontology_score": 1.141
+    },
+    "finance": {
+      "final_score": 0.4545,
+      "ontology_score": 0.625
+    },
+    "hr": {
+      "final_score": 0.4051,
+      "ontology_score": 0.582
+    },
+    "operations": {
+      "final_score": 0.0,
+      "ontology_score": 0.845
+    },
+    "platform_modernization": {
+      "final_score": 0.0,
+      "ontology_score": 8.08
+    },
+    "product_delivery": {
+      "final_score": 0.0,
+      "ontology_score": 0.993
+    },
+    "product_management": {
+      "final_score": 0.0,
+      "ontology_score": 0.856
+    },
+    "program_leadership": {
+      "final_score": 0.7472,
+      "ontology_score": 21.28
+    },
+    "release_governance": {
+      "final_score": 0.7346,
+      "ontology_score": 2.321
+    },
+    "sales": {
+      "final_score": 0.5035,
+      "ontology_score": 0.376
+    },
+    "software_engineering": {
+      "final_score": 0.0,
+      "ontology_score": 1.438
+    },
+    "technical_program_management": {
+      "final_score": 0.7558,
+      "ontology_score": 36.566
+    },
+    "transformation_office": {
+      "final_score": 0.2619,
+      "ontology_score": 1.608
+    }
+  }
+}

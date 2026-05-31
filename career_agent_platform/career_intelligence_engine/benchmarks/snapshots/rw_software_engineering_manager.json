@@ -1,0 +1,66 @@
+{
+  "confidence": {
+    "ambiguity_score": 1.0,
+    "confidence_level": "LOW",
+    "confidence_score": 0.3791,
+    "evidence_density": 0.4,
+    "top_gap": 0.0792
+  },
+  "contamination_signals": [],
+  "dominant_dimensions": [
+    "Engineering Depth",
+    "Technical Execution",
+    "Architecture Coordination"
+  ],
+  "exclusions": [
+    "product_delivery",
+    "enterprise_operations",
+    "product_management",
+    "operations"
+  ],
+  "fixture_id": "rw_software_engineering_manager",
+  "primary": "software_engineering",
+  "scorer_path": "canonical_unified_pipeline",
+  "top_rankings": [
+    {
+      "family": "software_engineering",
+      "rank": 1,
+      "score": 0.8745
+    },
+    {
+      "family": "enterprise_architecture_delivery",
+      "rank": 2,
+      "score": 0.8052
+    },
+    {
+      "family": "platform_modernization",
+      "rank": 3,
+      "score": 0.7785
+    },
+    {
+      "family": "cloud_transformation",
+      "rank": 4,
+      "score": 0.6819
+    },
+    {
+      "family": "technical_program_management",
+      "rank": 5,
+      "score": 0.6718
+    },
+    {
+      "family": "enterprise_delivery",
+      "rank": 6,
+      "score": 0.2792
+    },
+    {
+      "family": "release_governance",
+      "rank": 7,
+      "score": 0.2345
+    },
+    {
+      "family": "digital_transformation",
+      "rank": 8,
+      "score": 0.1535
+    }
+  ]
+}

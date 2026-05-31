@@ -1,0 +1,17 @@
+{
+  "fixture_id": "rw_program_director_10",
+  "resume_text": "\nCandidate J-1076 | j1076@anon.example\nProgram Director | Healthcare Enterprise | 2012 \u2013 Present\n\u2022 Portfolio governance, PMO leadership, and benefits realization across 20+ initiatives\n\u2022 Program governance board, executive sponsor alignment, and steering committee chair\n\u2022 Cross-functional program delivery, dependency management, and initiative portfolio\n\u2022 Program management office and portfolio management at enterprise scale\n",
+  "expected_primary": "program_leadership",
+  "acceptable_primaries": [
+    "enterprise_delivery"
+  ],
+  "allowed_adjacent": [
+    "enterprise_delivery",
+    "transformation_office"
+  ],
+  "forbidden_families": [
+    "software_engineering"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

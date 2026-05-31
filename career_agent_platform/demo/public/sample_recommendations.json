@@ -1,0 +1,391 @@
+{
+  "description": "Sanitized deterministic recommendations for public repo reviewers",
+  "profile_primary_track": "technical_program_management",
+  "recommendations": [
+    {
+      "job_id": "sample_release_gov_001",
+      "job_title": "Release Governance Lead",
+      "company": "Enterprise Corp",
+      "source": "mock",
+      "overall_match": 0.8388,
+      "confidence": 0.95,
+      "eligibility_passed": true,
+      "strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Program delivery outcomes are well represented"
+      ],
+      "gaps": [],
+      "risks": [],
+      "recruiter_summary": "Shortlist-ready for Release Governance; capability themes match role priorities. Evidence clusters around technical execution and adjacent delivery themes.",
+      "recommendation_priority": "GOOD_MATCH",
+      "approval_status": "pending",
+      "rejection_reason": "",
+      "why_matched": [
+        "Meets role-critical eligibility for this role family.",
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Steering and governance ownership less visible than role demands",
+        "Transformation narrative credible for scope",
+        "Capability mix matches the role's delivery emphasis"
+      ],
+      "why_not_matched": [],
+      "top_strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Release train and delivery governance depth stand out",
+        "Matrix stakeholder leadership reads clearly on the resume"
+      ],
+      "top_risks": [],
+      "missing_capabilities": [],
+      "dominant_dimensions": [
+        "Technical Execution",
+        "Release Governance",
+        "Stakeholder Complexity",
+        "Delivery Execution",
+        "Enterprise Governance"
+      ],
+      "missing_dimensions": [],
+      "match_detail": {
+        "overall_match_score": 0.8388,
+        "confidence": 0.95,
+        "capability_similarity": 0.9031,
+        "eligibility_fit": 1.0,
+        "seniority_fit": 0.85,
+        "transformation_fit": 0.9,
+        "architecture_fit": 0.5231,
+        "governance_fit": 0.2222,
+        "risk_penalties": [],
+        "fit_summary": "Shortlist-ready for Release Governance; capability themes match role priorities. Evidence clusters around technical execution and adjacent delivery themes.",
+        "risks": [],
+        "missing_capabilities": [],
+        "dominant_match_dimensions": [
+          "Technical Execution",
+          "Release Governance",
+          "Stakeholder Complexity",
+          "Delivery Execution",
+          "Enterprise Governance"
+        ],
+        "strengths": [
+          "Hands-on technical execution depth matches delivery-heavy expectations",
+          "Release train and delivery governance depth stand out",
+          "Matrix stakeholder leadership reads clearly on the resume",
+          "Program delivery outcomes are well represented"
+        ],
+        "gaps": [],
+        "recommended_resume_improvements": [
+          "Prioritize release train, deployment governance, and quality metrics in the top third of the resume.",
+          "Highlight release train, PI planning, and SDLC governance ownership with cadence and quality metrics."
+        ],
+        "gate_passed": true,
+        "gate_reasons": [],
+        "scorer_path": "deterministic_job_match_v1",
+        "primary_role_family": "release_governance",
+        "is_product_heavy": false,
+        "is_operations_heavy": false,
+        "is_ai_transformation": false,
+        "is_release_governance_heavy": true,
+        "is_architecture_heavy": true,
+        "fit_lenses": {
+          "governance": "Steering and governance ownership less visible than role demands",
+          "transformation": "Transformation narrative credible for scope",
+          "execution": "Capability mix matches the role's delivery emphasis"
+        },
+        "diagnostics": {
+          "role_cluster": "Release Governance",
+          "candidate_primary_track": "technical_program_management",
+          "candidate_cluster": "Technical Program Management",
+          "job_primary_family": "release_governance",
+          "matched_role_clusters": [
+            "Release Governance"
+          ],
+          "top_matching_dimensions": [
+            "Technical Execution",
+            "Release Governance",
+            "Stakeholder Complexity",
+            "Delivery Execution",
+            "Enterprise Governance"
+          ],
+          "missing_dimensions": [],
+          "missing_capabilities": [],
+          "adjacency": {
+            "is_primary_match": false,
+            "is_adjacent_match": true,
+            "candidate_adjacent_families": [
+              "enterprise_delivery",
+              "release_governance"
+            ],
+            "reasoning": [
+              "Job family release_governance is in candidate adjacent families."
+            ]
+          },
+          "fit_lenses": {},
+          "gate_passed": true,
+          "gate_reasons": []
+        },
+        "calibrated_priority": "GOOD_MATCH",
+        "location": "Hybrid"
+      }
+    },
+    {
+      "job_id": "sample_tpm_001",
+      "job_title": "Senior Technical Program Manager",
+      "company": "Global Enterprise",
+      "source": "mock",
+      "overall_match": 0.8253,
+      "confidence": 0.95,
+      "eligibility_passed": true,
+      "strengths": [
+        "Technical delivery coordination is a clear differentiator",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Release and SDLC governance experience is well evidenced",
+        "Execution track record supports delivery-accountable roles"
+      ],
+      "gaps": [
+        "Organizational change and adoption outcomes are less visible than delivery and governance themes"
+      ],
+      "risks": [],
+      "recruiter_summary": "Shortlist-ready for Technical Program Management; capability themes match role priorities. Resume emphasizes technical execution, stakeholder complexity; change management is not yet a headline theme.",
+      "recommendation_priority": "GOOD_MATCH",
+      "approval_status": "pending",
+      "rejection_reason": "",
+      "why_matched": [
+        "Meets role-critical eligibility for this role family.",
+        "Technical delivery coordination is a clear differentiator",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Release and SDLC governance experience is well evidenced",
+        "Solution and enterprise architecture alignment appear solid",
+        "Delivery themes track role-critical capabilities"
+      ],
+      "why_not_matched": [
+        "Governance evidence lighter than role expects",
+        "Organizational change and adoption outcomes are less visible than delivery and governance themes"
+      ],
+      "top_strengths": [
+        "Technical delivery coordination is a clear differentiator",
+        "Matrix stakeholder leadership reads clearly on the resume",
+        "Release and SDLC governance experience is well evidenced"
+      ],
+      "top_risks": [],
+      "missing_capabilities": [],
+      "dominant_dimensions": [
+        "Technical Execution",
+        "Stakeholder Complexity",
+        "Release Governance",
+        "Delivery Execution",
+        "Enterprise Governance"
+      ],
+      "missing_dimensions": [
+        "Change Management"
+      ],
+      "match_detail": {
+        "overall_match_score": 0.8253,
+        "confidence": 0.95,
+        "capability_similarity": 0.9334,
+        "eligibility_fit": 1.0,
+        "seniority_fit": 1.0,
+        "transformation_fit": 0.1767,
+        "architecture_fit": 0.9,
+        "governance_fit": 0.2222,
+        "risk_penalties": [],
+        "fit_summary": "Shortlist-ready for Technical Program Management; capability themes match role priorities. Resume emphasizes technical execution, stakeholder complexity; change management is not yet a headline theme.",
+        "risks": [],
+        "missing_capabilities": [],
+        "dominant_match_dimensions": [
+          "Technical Execution",
+          "Stakeholder Complexity",
+          "Release Governance",
+          "Delivery Execution",
+          "Enterprise Governance"
+        ],
+        "strengths": [
+          "Technical delivery coordination is a clear differentiator",
+          "Matrix stakeholder leadership reads clearly on the resume",
+          "Release and SDLC governance experience is well evidenced",
+          "Execution track record supports delivery-accountable roles"
+        ],
+        "gaps": [
+          "Organizational change and adoption outcomes are less visible than delivery and governance themes"
+        ],
+        "recommended_resume_improvements": [
+          "Lead with technical delivery coordination, release governance, and architecture alignment\u2014not only status reporting.",
+          "Highlight release train, PI planning, and SDLC governance ownership with cadence and quality metrics."
+        ],
+        "gate_passed": true,
+        "gate_reasons": [],
+        "scorer_path": "deterministic_job_match_v1",
+        "primary_role_family": "technical_program_management",
+        "is_product_heavy": false,
+        "is_operations_heavy": false,
+        "is_ai_transformation": false,
+        "is_release_governance_heavy": true,
+        "is_architecture_heavy": false,
+        "fit_lenses": {
+          "governance": "Governance evidence lighter than role expects",
+          "architecture": "Solution and enterprise architecture alignment appear solid",
+          "execution": "Delivery themes track role-critical capabilities"
+        },
+        "diagnostics": {
+          "role_cluster": "Technical Program Management",
+          "candidate_primary_track": "technical_program_management",
+          "candidate_cluster": "Technical Program Management",
+          "job_primary_family": "technical_program_management",
+          "matched_role_clusters": [
+            "Technical Program Management"
+          ],
+          "top_matching_dimensions": [
+            "Technical Execution",
+            "Stakeholder Complexity",
+            "Release Governance",
+            "Delivery Execution",
+            "Enterprise Governance"
+          ],
+          "missing_dimensions": [
+            "Organizational change and adoption outcomes are less visible than delivery and governance themes"
+          ],
+          "missing_capabilities": [],
+          "adjacency": {
+            "is_primary_match": true,
+            "is_adjacent_match": false,
+            "candidate_adjacent_families": [
+              "enterprise_delivery",
+              "release_governance"
+            ],
+            "reasoning": [
+              "Job family technical_program_management matches candidate primary track."
+            ]
+          },
+          "fit_lenses": {},
+          "gate_passed": true,
+          "gate_reasons": []
+        },
+        "calibrated_priority": "GOOD_MATCH",
+        "location": "Remote"
+      }
+    },
+    {
+      "job_id": "sample_enterprise_delivery_001",
+      "job_title": "Enterprise Delivery Director",
+      "company": "Matrix Industries",
+      "source": "mock",
+      "overall_match": 0.7723,
+      "confidence": 0.95,
+      "eligibility_passed": true,
+      "strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Executive and matrix stakeholder coordination are documented",
+        "Program delivery outcomes are well represented",
+        "Portfolio steering and governance rituals are well evidenced"
+      ],
+      "gaps": [],
+      "risks": [],
+      "recruiter_summary": "Selective fit for Program Leadership; strengths land with addressable gaps. Evidence clusters around technical execution and adjacent delivery themes.",
+      "recommendation_priority": "GOOD_MATCH",
+      "approval_status": "pending",
+      "rejection_reason": "",
+      "why_matched": [
+        "Meets role-critical eligibility for this role family.",
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Executive and matrix stakeholder coordination are documented",
+        "Program delivery outcomes are well represented",
+        "Change and transformation ownership land credibly",
+        "Solution and enterprise architecture alignment appear solid",
+        "Delivery themes track role-critical capabilities"
+      ],
+      "why_not_matched": [],
+      "top_strengths": [
+        "Hands-on technical execution depth matches delivery-heavy expectations",
+        "Executive and matrix stakeholder coordination are documented",
+        "Program delivery outcomes are well represented"
+      ],
+      "top_risks": [],
+      "missing_capabilities": [],
+      "dominant_dimensions": [
+        "Technical Execution",
+        "Stakeholder Complexity",
+        "Delivery Execution",
+        "Enterprise Governance"
+      ],
+      "missing_dimensions": [],
+      "match_detail": {
+        "overall_match_score": 0.7723,
+        "confidence": 0.95,
+        "capability_similarity": 0.7994,
+        "eligibility_fit": 1.0,
+        "seniority_fit": 0.35,
+        "transformation_fit": 0.9,
+        "architecture_fit": 0.9,
+        "governance_fit": 0.2222,
+        "risk_penalties": [],
+        "fit_summary": "Selective fit for Program Leadership; strengths land with addressable gaps. Evidence clusters around technical execution and adjacent delivery themes.",
+        "risks": [],
+        "missing_capabilities": [],
+        "dominant_match_dimensions": [
+          "Technical Execution",
+          "Stakeholder Complexity",
+          "Delivery Execution",
+          "Enterprise Governance"
+        ],
+        "strengths": [
+          "Hands-on technical execution depth matches delivery-heavy expectations",
+          "Executive and matrix stakeholder coordination are documented",
+          "Program delivery outcomes are well represented",
+          "Portfolio steering and governance rituals are well evidenced"
+        ],
+        "gaps": [],
+        "recommended_resume_improvements": [
+          "Position portfolio governance, benefits realization, and executive steering outcomes ahead of tactical task lists.",
+          "Emphasize cross-functional governance and transformation coordination outcomes for consulting-oriented PMO roles."
+        ],
+        "gate_passed": true,
+        "gate_reasons": [],
+        "scorer_path": "deterministic_job_match_v1",
+        "primary_role_family": "program_leadership",
+        "is_product_heavy": false,
+        "is_operations_heavy": false,
+        "is_ai_transformation": false,
+        "is_release_governance_heavy": false,
+        "is_architecture_heavy": false,
+        "fit_lenses": {
+          "transformation": "Change and transformation ownership land credibly",
+          "architecture": "Solution and enterprise architecture alignment appear solid",
+          "execution": "Delivery themes track role-critical capabilities"
+        },
+        "diagnostics": {
+          "role_cluster": "Program Leadership",
+          "candidate_primary_track": "technical_program_management",
+          "candidate_cluster": "Technical Program Management",
+          "job_primary_family": "program_leadership",
+          "matched_role_clusters": [
+            "Program Leadership"
+          ],
+          "top_matching_dimensions": [
+            "Technical Execution",
+            "Stakeholder Complexity",
+            "Delivery Execution",
+            "Enterprise Governance"
+          ],
+          "missing_dimensions": [],
+          "missing_capabilities": [],
+          "adjacency": {
+            "is_primary_match": false,
+            "is_adjacent_match": false,
+            "candidate_adjacent_families": [
+              "enterprise_delivery",
+              "release_governance"
+            ],
+            "reasoning": [
+              "Job family program_leadership is outside primary/adjacent sets (primary=technical_program_management, adjacent=['enterprise_delivery', 'release_governance'])."
+            ]
+          },
+          "fit_lenses": {},
+          "gate_passed": true,
+          "gate_reasons": []
+        },
+        "calibrated_priority": "GOOD_MATCH",
+        "location": "New York, NY"
+      }
+    }
+  ]
+}

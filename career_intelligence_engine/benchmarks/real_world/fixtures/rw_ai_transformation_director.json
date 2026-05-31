@@ -1,0 +1,18 @@
+{
+  "fixture_id": "rw_ai_transformation_director",
+  "resume_text": "\nSam Rivera | sam.rivera@email.com\n\nEXPERIENCE\nAI Transformation Director | Enterprise Inc | 2019 \u2013 Present\n\u2022 Owned enterprise AI strategy and target operating model for GenAI adoption\n\u2022 Directed organizational transformation across 8 business units\n\u2022 Established AI center of excellence and enterprise AI portfolio execution\n\u2022 Executive steering committee chair for AI transformation and change management\n\u2022 Enterprise AI operating model and use case portfolio at scale\n\nDirector, Digital Transformation | Prior Co | 2014 \u2013 2019\n\u2022 Business transformation and operating model redesign\n\nSKILLS\nAI strategy, AI transformation, GenAI, responsible AI, operating model, transformation, MLOps\n",
+  "expected_primary": "ai_transformation",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "ai_program_management",
+    "digital_transformation",
+    "transformation_office"
+  ],
+  "forbidden_families": [
+    "ai_governance",
+    "software_engineering",
+    "hr"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

@@ -1,0 +1,14 @@
+Morgan Lee
+
+EXPERIENCE
+Senior Technical Program Manager | Example Industries | 2018 – Present
+• Owned release train, SDLC alignment, and dependency management across engineering teams
+• Coordinated architecture reviews and CI/CD adoption for enterprise cloud programs
+• Led cross-functional technical delivery with executive stakeholder reporting
+• Managed multi-region rollout for large enterprise transformation programs
+
+Technical Program Manager | Sample Systems | 2013 – 2018
+• Release governance, PI planning, and portfolio coordination
+
+SKILLS
+Program management, SDLC, agile, cloud platforms, governance, stakeholder management

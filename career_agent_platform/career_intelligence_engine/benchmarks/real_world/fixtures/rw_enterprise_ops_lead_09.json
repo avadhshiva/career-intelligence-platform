@@ -1,0 +1,18 @@
+{
+  "fixture_id": "rw_enterprise_ops_lead_09",
+  "resume_text": "\nCandidate I-9965 | i9965@anon.example\nEnterprise Operations Manager | Logistics | 2016 \u2013 Present\n\u2022 Run-state operations and service management for global footprint\n\u2022 Operational excellence, SLA management, and incident management\n\u2022 Process optimization and operational continuity\n",
+  "expected_primary": "enterprise_operations",
+  "acceptable_primaries": [
+    "operations"
+  ],
+  "allowed_adjacent": [
+    "operations",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "software_engineering",
+    "product_management"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

@@ -1,0 +1,13 @@
+# Phase 5 — Agentic Career Platform dependencies
+# Canonical engine requirements are unchanged; extend via include:
+-r career_intelligence_engine/requirements.txt
+
+# Agent orchestration and configuration
+python-dotenv>=1.0.0
+openai>=1.54.0
+
+# Application package export (Phase 5C)
+reportlab>=4.2.0
+
+# Future Phase 5b (browser automation — not enabled yet)
+# playwright>=1.49.0

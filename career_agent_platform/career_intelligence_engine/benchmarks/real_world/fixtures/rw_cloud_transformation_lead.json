@@ -1,0 +1,17 @@
+{
+  "fixture_id": "rw_cloud_transformation_lead",
+  "resume_text": "\nChris Hale | chris.hale@email.com\n\nEXPERIENCE\nCloud Transformation Lead | CloudFirst | 2018 \u2013 Present\n\u2022 Led enterprise cloud migration and cloud transformation program across AWS and Azure\n\u2022 Landing zone design, multi-cloud strategy, FinOps, and cloud program governance\n\u2022 Kubernetes and terraform platform standards for migration waves\n\u2022 Executive steering for cloud migration portfolio and benefits tracking\n\nCloud Program Manager | MigrateCo | 2013 \u2013 2018\n\u2022 Cloud migration director responsibilities and technical program coordination\n\nSKILLS\nAWS, Azure, GCP, kubernetes, terraform, cloud migration, landing zone, FinOps, multi-cloud\n",
+  "expected_primary": "cloud_transformation",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "technical_program_management",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "ai_governance",
+    "hr",
+    "product_management"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

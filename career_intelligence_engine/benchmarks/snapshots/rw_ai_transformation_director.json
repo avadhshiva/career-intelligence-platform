@@ -1,0 +1,70 @@
+{
+  "confidence": {
+    "ambiguity_score": 0.8055,
+    "confidence_level": "LOW",
+    "confidence_score": 0.4675,
+    "evidence_density": 0.6,
+    "top_gap": 0.1945
+  },
+  "contamination_signals": [],
+  "dominant_dimensions": [
+    "Transformation Strategy",
+    "AI Strategy",
+    "Change Management",
+    "Organizational Leadership"
+  ],
+  "exclusions": [
+    "enterprise_architecture_delivery",
+    "platform_modernization",
+    "product_delivery",
+    "enterprise_operations",
+    "product_management",
+    "software_engineering",
+    "operations"
+  ],
+  "fixture_id": "rw_ai_transformation_director",
+  "primary": "ai_transformation",
+  "scorer_path": "canonical_unified_pipeline",
+  "top_rankings": [
+    {
+      "family": "ai_transformation",
+      "rank": 1,
+      "score": 0.965
+    },
+    {
+      "family": "transformation_office",
+      "rank": 2,
+      "score": 0.7773
+    },
+    {
+      "family": "digital_transformation",
+      "rank": 3,
+      "score": 0.697
+    },
+    {
+      "family": "hr",
+      "rank": 4,
+      "score": 0.5364
+    },
+    {
+      "family": "cloud_transformation",
+      "rank": 5,
+      "score": 0.5176
+    },
+    {
+      "family": "program_leadership",
+      "rank": 6,
+      "score": 0.3964
+    },
+    {
+      "family": "sales",
+      "rank": 7,
+      "score": 0.2888
+    },
+    {
+      "family": "ai_governance",
+      "rank": 8,
+      "score": 0.1816
+    }
+  ]
+}

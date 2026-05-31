@@ -1,0 +1,17 @@
+{
+  "fixture_id": "rw_software_engineering_manager",
+  "resume_text": "\nRiley Park | riley.park@email.com\n\nEXPERIENCE\nEngineering Manager | Tech Co | 2017 \u2013 Present\n\u2022 Software engineering team lead with 12 developers and hiring ownership\n\u2022 Code review, pull request standards, and full stack delivery accountability\n\u2022 Owned production systems, kubernetes platform, and CI/CD pipelines\n\u2022 Backend development in Python and Java with architecture review participation\n\nSenior Software Engineer | Dev Shop | 2012 \u2013 2017\n\u2022 Unit testing, software engineer delivery, and system design\n\nSKILLS\nSoftware engineering, Python, Java, kubernetes, CI/CD, code review, pull request\n",
+  "expected_primary": "software_engineering",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "technical_program_management",
+    "platform_modernization"
+  ],
+  "forbidden_families": [
+    "program_leadership",
+    "ai_transformation",
+    "hr"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

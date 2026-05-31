@@ -1,0 +1,76 @@
+{
+  "confidence": {
+    "ambiguity_score": 1.0,
+    "confidence_level": "AMBIGUOUS",
+    "confidence_score": 0.2675,
+    "evidence_density": 0.3333,
+    "top_gap": 0.1097
+  },
+  "contamination_signals": [
+    {
+      "contamination_score": 0.8704,
+      "family": "Finance",
+      "reasons": [
+        "Finance scores 87% of primary without explicit exclusion."
+      ]
+    }
+  ],
+  "dominant_dimensions": [
+    "Technical Execution",
+    "Delivery Execution"
+  ],
+  "exclusions": [
+    "enterprise_architecture_delivery",
+    "platform_modernization",
+    "product_delivery",
+    "enterprise_operations",
+    "product_management",
+    "software_engineering",
+    "operations"
+  ],
+  "fixture_id": "rw_hr_business_partner_07",
+  "primary": "cloud_transformation",
+  "scorer_path": "canonical_unified_pipeline",
+  "top_rankings": [
+    {
+      "family": "cloud_transformation",
+      "rank": 1,
+      "score": 0.4739
+    },
+    {
+      "family": "enterprise_delivery",
+      "rank": 2,
+      "score": 0.4219
+    },
+    {
+      "family": "release_governance",
+      "rank": 3,
+      "score": 0.417
+    },
+    {
+      "family": "finance",
+      "rank": 4,
+      "score": 0.4125
+    },
+    {
+      "family": "technical_program_management",
+      "rank": 5,
+      "score": 0.3186
+    },
+    {
+      "family": "digital_transformation",
+      "rank": 6,
+      "score": 0.3052
+    },
+    {
+      "family": "sales",
+      "rank": 7,
+      "score": 0.2778
+    },
+    {
+      "family": "program_leadership",
+      "rank": 8,
+      "score": 0.2688
+    }
+  ]
+}

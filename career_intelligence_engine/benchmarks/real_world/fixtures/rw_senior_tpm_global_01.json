@@ -1,0 +1,24 @@
+{
+  "fixture_id": "rw_senior_tpm_global_01",
+  "resume_text": "\nCandidate A-1042 | candidate.a1042@anon.example\n\nEXPERIENCE\nSenior Technical Program Manager | Global Corp | 2018 \u2013 Present\n\u2022 Led cross-region platform delivery and dependency management across 8 engineering teams\n\u2022 Architecture alignment, release train coordination, and SDLC governance\n\u2022 Fortune 500 client rollout with steering committee reporting\n\nTechnical Program Manager | Tech Vendor | 2013 \u2013 2018\n\u2022 Engineering roadmap alignment and CI/CD adoption\n\nSKILLS\nTechnical program management, dependency management, release train, SDLC, AWS\n",
+  "expected_primary": "technical_program_management",
+  "acceptable_primaries": [
+    "release_governance",
+    "program_leadership"
+  ],
+  "allowed_adjacent": [
+    "program_leadership",
+    "enterprise_delivery",
+    "release_governance"
+  ],
+  "forbidden_families": [
+    "product_management",
+    "hr",
+    "sales"
+  ],
+  "expected_exclusions": [
+    "product_delivery",
+    "operations"
+  ],
+  "minimum_confidence": 0.35
+}

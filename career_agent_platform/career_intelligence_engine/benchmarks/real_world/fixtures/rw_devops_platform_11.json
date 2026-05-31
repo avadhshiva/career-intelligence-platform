@@ -1,0 +1,19 @@
+{
+  "fixture_id": "rw_devops_platform_11",
+  "resume_text": "\nCandidate K-2187 | k2187@anon.example\nPlatform Engineering Manager | Cloud Native Co | 2017 \u2013 Present\n\u2022 CI/CD platform, infrastructure as code, and developer productivity\n\u2022 Kubernetes, microservices, and platform reliability engineering\n\u2022 Hands-on engineering leadership and code review\n",
+  "expected_primary": "software_engineering",
+  "acceptable_primaries": [
+    "platform_modernization",
+    "cloud_transformation"
+  ],
+  "allowed_adjacent": [
+    "platform_modernization",
+    "technical_program_management"
+  ],
+  "forbidden_families": [
+    "hr",
+    "sales"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.3
+}

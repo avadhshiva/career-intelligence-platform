@@ -1,0 +1,22 @@
+{
+  "fixture_id": "rw_hr_business_partner_07",
+  "resume_text": "\nCandidate G-7743 | g7743@anon.example\nHR Director | Manufacturing | 2015 \u2013 Present\n\u2022 Employee relations, talent acquisition, recruiting, and workforce planning\n\u2022 HR business partner for compensation, benefits, and labor relations\n\u2022 Organizational development, culture programs, and people operations\n\u2022 Performance management, HR policies, HRIS, and talent management programs\n",
+  "expected_primary": "finance",
+  "acceptable_primaries": [
+    "cloud_transformation",
+    "hr",
+    "operations",
+    "enterprise_operations"
+  ],
+  "allowed_adjacent": [
+    "sales",
+    "cloud_transformation",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "technical_program_management",
+    "software_engineering"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

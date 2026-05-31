@@ -1,0 +1,22 @@
+{
+  "fixture_id": "rw_sales_enterprise_08",
+  "resume_text": "\nCandidate H-8854 | h8854@anon.example\nEnterprise Account Executive | SaaS Vendor | 2014 \u2013 Present\n\u2022 Quota attainment, pipeline management, and sales forecasting for Fortune 500 accounts\n\u2022 Solution selling, contract negotiation, and revenue growth targets\n\u2022 CRM pipeline, prospecting, and client relationship management for enterprise deals\n\u2022 Sales leadership on complex B2B deals and account expansion\n",
+  "expected_primary": "enterprise_delivery",
+  "acceptable_primaries": [
+    "sales",
+    "finance",
+    "program_leadership"
+  ],
+  "allowed_adjacent": [
+    "sales",
+    "program_leadership",
+    "release_governance",
+    "technical_program_management"
+  ],
+  "forbidden_families": [
+    "technical_program_management",
+    "software_engineering"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

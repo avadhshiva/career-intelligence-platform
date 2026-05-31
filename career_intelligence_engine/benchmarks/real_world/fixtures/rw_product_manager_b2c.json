@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_product_manager_b2c",
+  "resume_text": "\nCasey Nguyen | casey.nguyen@email.com\n\nEXPERIENCE\nSenior Product Manager | Consumer Apps Inc | 2018 \u2013 Present\n\u2022 Owned B2C product roadmap, PRD, and user research for mobile consumer app\n\u2022 Led customer discovery, A/B testing, and go-to-market for consumer features\n\u2022 Product-market fit experiments and product strategy with engineering partners\n\u2022 Feature prioritization and product lifecycle for millions of users\n\nProduct Manager | App Co | 2014 \u2013 2018\n\u2022 Product owner for consumer product delivery and launch planning\n\nSKILLS\nProduct roadmap, PRD, user research, go-to-market, A/B testing, Figma, product strategy\n",
+  "expected_primary": "product_management",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "product_delivery"
+  ],
+  "forbidden_families": [
+    "technical_program_management",
+    "release_governance",
+    "hr"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

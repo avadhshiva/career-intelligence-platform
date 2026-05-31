@@ -1,0 +1,70 @@
+{
+  "confidence": {
+    "ambiguity_score": 0.5169,
+    "confidence_level": "MEDIUM",
+    "confidence_score": 0.5242,
+    "evidence_density": 0.3333,
+    "top_gap": 0.4831
+  },
+  "contamination_signals": [],
+  "dominant_dimensions": [
+    "Release Governance",
+    "Technical Execution",
+    "Enterprise Governance",
+    "Delivery Execution"
+  ],
+  "exclusions": [
+    "enterprise_architecture_delivery",
+    "platform_modernization",
+    "product_delivery",
+    "enterprise_operations",
+    "product_management",
+    "software_engineering",
+    "operations"
+  ],
+  "fixture_id": "rw_release_train_12",
+  "primary": "release_governance",
+  "scorer_path": "canonical_unified_pipeline",
+  "top_rankings": [
+    {
+      "family": "release_governance",
+      "rank": 1,
+      "score": 0.8977
+    },
+    {
+      "family": "technical_program_management",
+      "rank": 2,
+      "score": 0.464
+    },
+    {
+      "family": "cloud_transformation",
+      "rank": 3,
+      "score": 0.3739
+    },
+    {
+      "family": "enterprise_delivery",
+      "rank": 4,
+      "score": 0.3278
+    },
+    {
+      "family": "ai_program_management",
+      "rank": 5,
+      "score": 0.2692
+    },
+    {
+      "family": "finance",
+      "rank": 6,
+      "score": 0.2344
+    },
+    {
+      "family": "digital_transformation",
+      "rank": 7,
+      "score": 0.15
+    },
+    {
+      "family": "sales",
+      "rank": 8,
+      "score": 0.1464
+    }
+  ]
+}

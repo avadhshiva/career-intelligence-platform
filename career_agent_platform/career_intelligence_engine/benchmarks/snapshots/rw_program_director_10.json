@@ -1,0 +1,78 @@
+{
+  "confidence": {
+    "ambiguity_score": 0.681,
+    "confidence_level": "MEDIUM",
+    "confidence_score": 0.4933,
+    "evidence_density": 0.4667,
+    "top_gap": 0.319
+  },
+  "contamination_signals": [
+    {
+      "contamination_score": 0.6745,
+      "family": "Finance",
+      "reasons": [
+        "Semantically distant family (finance) ranks high despite far-family designation."
+      ]
+    }
+  ],
+  "dominant_dimensions": [
+    "Enterprise Governance",
+    "Stakeholder Complexity",
+    "Organizational Leadership",
+    "Executive Communication"
+  ],
+  "exclusions": [
+    "enterprise_architecture_delivery",
+    "platform_modernization",
+    "product_delivery",
+    "enterprise_operations",
+    "product_management",
+    "software_engineering",
+    "operations"
+  ],
+  "fixture_id": "rw_program_director_10",
+  "primary": "program_leadership",
+  "scorer_path": "canonical_unified_pipeline",
+  "top_rankings": [
+    {
+      "family": "program_leadership",
+      "rank": 1,
+      "score": 0.8219
+    },
+    {
+      "family": "enterprise_delivery",
+      "rank": 2,
+      "score": 0.5597
+    },
+    {
+      "family": "finance",
+      "rank": 3,
+      "score": 0.5544
+    },
+    {
+      "family": "sales",
+      "rank": 4,
+      "score": 0.5097
+    },
+    {
+      "family": "hr",
+      "rank": 5,
+      "score": 0.4351
+    },
+    {
+      "family": "transformation_office",
+      "rank": 6,
+      "score": 0.3968
+    },
+    {
+      "family": "digital_transformation",
+      "rank": 7,
+      "score": 0.33
+    },
+    {
+      "family": "cloud_transformation",
+      "rank": 8,
+      "score": 0.2445
+    }
+  ]
+}

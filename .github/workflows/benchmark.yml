@@ -1,0 +1,32 @@
+name: Career Intelligence Benchmarks
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r career_intelligence_engine/requirements.txt
+
+      - name: Run benchmark pytest suite
+        run: python -m pytest career_intelligence_engine/tests/test_benchmark_rankings.py -v
+
+      - name: Run benchmark CLI
+        run: python -m career_intelligence_engine.benchmarks.run --no-drift
+
+      - name: Run full test suite
+        run: python -m pytest career_intelligence_engine/tests/ -q

@@ -1,0 +1,17 @@
+{
+  "fixture_id": "rw_ai_program_lead_02",
+  "resume_text": "\nCandidate B-2201 | b2201@anon.example\n\nEXPERIENCE\nAI Program Manager | Enterprise AI Co | 2020 \u2013 Present\n\u2022 AI use case portfolio from pilot to production across business units\n\u2022 MLOps, model lifecycle, and responsible AI framework execution\n\u2022 GenAI initiative delivery with data science and compliance partners\n\nSKILLS\nAI program, MLOps, GenAI, model lifecycle, use case portfolio, responsible AI\n",
+  "expected_primary": "ai_program_management",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "ai_transformation",
+    "ai_governance",
+    "technical_program_management"
+  ],
+  "forbidden_families": [
+    "software_engineering",
+    "sales"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.3
+}

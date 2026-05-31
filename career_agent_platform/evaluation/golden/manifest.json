@@ -1,0 +1,14 @@
+{
+  "description": "Golden recommendation snapshots for deterministic regression",
+  "job_feed": "sample_job_feed.json",
+  "fixtures": [
+    "tpm_sample",
+    "delivery_leadership_sample",
+    "platform_engineering_sample"
+  ],
+  "recommendation_hashes": {
+    "tpm_sample": "17e3f9cde9a0682d",
+    "delivery_leadership_sample": "bb074ad03e9afa86",
+    "platform_engineering_sample": "eaebfebcb550355d"
+  }
+}

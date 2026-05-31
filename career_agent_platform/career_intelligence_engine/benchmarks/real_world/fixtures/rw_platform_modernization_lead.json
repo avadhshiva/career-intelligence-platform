@@ -1,0 +1,21 @@
+{
+  "fixture_id": "rw_platform_modernization_lead",
+  "resume_text": "\nRobin Shah | robin.shah@email.com\n\nEXPERIENCE\nPlatform Modernization Lead | ModernizeCo | 2017 \u2013 Present\n\u2022 Platform modernization owner for legacy decommission and platform migration program\n\u2022 Legacy modernization with API modernization and platform migration standards\n\u2022 Design authority for platform modernization guardrails and API integration\n\u2022 Platform modernization lead driving legacy decommission across core platforms\n\nPlatform Modernization Manager | Infra Co | 2012 \u2013 2017\n\u2022 Platform modernization, legacy decommission, and platform migration for core systems\n\nSKILLS\nPlatform modernization, legacy decommission, platform migration, API modernization, legacy modernization\n",
+  "expected_primary": "platform_modernization",
+  "acceptable_primaries": [
+    "cloud_transformation",
+    "enterprise_architecture_delivery"
+  ],
+  "allowed_adjacent": [
+    "cloud_transformation",
+    "technical_program_management"
+  ],
+  "forbidden_families": [
+    "product_management",
+    "sales",
+    "finance",
+    "software_engineering"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

@@ -1,0 +1,24 @@
+{
+  "fixture_id": "rw_technical_program_manager_enterprise",
+  "resume_text": "\nJordan Chen | jordan.chen@email.com\n\nEXPERIENCE\nSenior Technical Program Manager | Contoso | 2018 \u2013 Present\n\u2022 Owned technical program delivery, SDLC alignment, and dependency management across 6 engineering teams\n\u2022 Coordinated architecture reviews and engineering roadmap alignment for enterprise cloud migration\n\u2022 Led GenAI pilot initiative with engineering and data science teams\n\u2022 Cross-team coordination for Fortune 500 platform delivery across NA and EMEA\n\u2022 Executive stakeholder management and technical steering committee reporting\n\nTechnical Program Manager | Northwind | 2013 \u2013 2018\n\u2022 Technical program management, PI planning, cross-functional engineering delivery\n\nSKILLS\nProgram management, SDLC, agile, GenAI, AWS, governance, stakeholder management\n",
+  "expected_primary": "technical_program_management",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "release_governance",
+    "program_leadership",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "product_delivery",
+    "product_management",
+    "operations",
+    "hr"
+  ],
+  "expected_exclusions": [
+    "product_delivery",
+    "product_management",
+    "operations",
+    "enterprise_operations"
+  ],
+  "minimum_confidence": 0.25
+}

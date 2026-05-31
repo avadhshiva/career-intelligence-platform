@@ -1,0 +1,46 @@
+{
+  "feed_id": "phase5a_sample",
+  "description": "Deterministic sample jobs — TPM, release governance, enterprise delivery, product, operations",
+  "jobs": [
+    {
+      "job_id": "sample_tpm_001",
+      "source": "mock",
+      "title": "Senior Technical Program Manager",
+      "company": "Global Enterprise",
+      "location": "Remote",
+      "raw_text": "Senior Technical Program Manager\nGlobal Enterprise | Remote\n\nResponsibilities\n• Own release train, SDLC governance, and dependency management across 6 engineering teams\n• Coordinate architecture reviews and CI/CD adoption for AWS cloud migration\n• Lead cross-functional technical delivery with executive stakeholder management\n• Facilitate PI planning, release calendar, and deployment governance\n\nRequirements\n• 8+ years technical program management in Fortune 500 enterprise environments\n• Strong technical execution, release governance, and architecture coordination"
+    },
+    {
+      "job_id": "sample_release_gov_001",
+      "source": "mock",
+      "title": "Release Governance Lead",
+      "company": "Enterprise Corp",
+      "location": "Hybrid",
+      "raw_text": "Release Governance Lead\nEnterprise Corp\n\nResponsibilities\n• Own release train, SAFE, PI planning, and SDLC governance across portfolio\n• Establish release calendar, deployment governance, and cutover management\n• Partner with architecture board on release readiness and dependency management\n\nRequirements\n• Deep release governance and technical execution in global matrix organizations\n• Experience with enterprise program governance and steering committees"
+    },
+    {
+      "job_id": "sample_enterprise_delivery_001",
+      "source": "mock",
+      "title": "Enterprise Delivery Director",
+      "company": "Matrix Industries",
+      "location": "New York, NY",
+      "raw_text": "Enterprise Delivery Director\nMatrix Industries\n\nResponsibilities\n• Lead enterprise-wide program delivery across regulated industries\n• Own steering committee cadence, portfolio governance, and benefits realization\n• Coordinate cross-functional technical delivery and dependency management\n• Executive stakeholder management for Fortune 500 transformation programs\n\nRequirements\n• Program governance, technical program management, and global matrix experience"
+    },
+    {
+      "job_id": "sample_product_001",
+      "source": "mock",
+      "title": "Senior Product Manager",
+      "company": "SaaS Platform",
+      "location": "San Francisco, CA",
+      "raw_text": "Senior Product Manager\nSaaS Platform\n\nResponsibilities\n• Own product roadmap and backlog prioritization for B2B platform\n• Lead customer discovery, user research, and go-to-market planning\n• Define product strategy and product-market fit with engineering partners\n\nRequirements\n• 5+ years product management with roadmap ownership evidence\n• Strong product thinking, stakeholder management, and delivery execution"
+    },
+    {
+      "job_id": "sample_operations_001",
+      "source": "mock",
+      "title": "IT Operations Manager",
+      "company": "Ops Corp",
+      "location": "Chicago, IL",
+      "raw_text": "IT Operations Manager\nOps Corp\n\nResponsibilities\n• Run operations for production systems with SLA management\n• Own incident management, operational continuity, and NOC coordination\n• Service operations governance and production support leadership\n\nRequirements\n• IT operations and run-state ownership in enterprise environments\n• Operational management and delivery execution experience"
+    }
+  ]
+}

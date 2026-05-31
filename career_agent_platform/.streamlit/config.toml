@@ -1,0 +1,6 @@
+[client]
+# Custom sidebar nav via presentation.nav — hide Streamlit's duplicate page list.
+showSidebarNavigation = false
+
+[server]
+headless = true

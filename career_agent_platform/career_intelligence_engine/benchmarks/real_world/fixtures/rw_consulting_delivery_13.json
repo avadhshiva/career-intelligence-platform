@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_consulting_delivery_13",
+  "resume_text": "\nCandidate M-4409 | m4409@anon.example\nEngagement Manager | Consulting Firm | 2013 \u2013 Present\n\u2022 Client delivery lead for ERP and CRM implementations\n\u2022 Stakeholder management and change management in regulated industries\n\u2022 Program governance and milestone delivery for enterprise clients\n",
+  "expected_primary": "enterprise_delivery",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "program_leadership",
+    "digital_transformation"
+  ],
+  "forbidden_families": [
+    "software_engineering",
+    "sales"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.28
+}

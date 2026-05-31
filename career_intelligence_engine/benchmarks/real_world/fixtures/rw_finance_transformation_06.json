@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_finance_transformation_06",
+  "resume_text": "\nCandidate F-6632 | f6632@anon.example\nFinance Transformation Director | Insurance | 2016 \u2013 Present\n\u2022 Financial planning transformation and ERP consolidation\n\u2022 SOX controls, audit readiness, and finance operating model\n\u2022 Budget governance and financial modeling for enterprise programs\n",
+  "expected_primary": "finance",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "program_leadership",
+    "transformation_office"
+  ],
+  "forbidden_families": [
+    "software_engineering",
+    "product_management"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

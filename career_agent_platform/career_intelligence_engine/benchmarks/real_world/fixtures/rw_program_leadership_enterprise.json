@@ -1,0 +1,19 @@
+{
+  "fixture_id": "rw_program_leadership_enterprise",
+  "resume_text": "\nAlex Morgan | alex.morgan@email.com\n\nEXPERIENCE\nProgram Director | Global Corp | 2017 \u2013 Present\n\u2022 Directed enterprise portfolio with 15+ programs and $40M annual budget\n\u2022 Owned portfolio governance, steering committee cadence, and benefits realization\n\u2022 Led operating model redesign across global matrix organization\n\u2022 Executive sponsor to C-suite for transformation portfolio\n\nSenior Program Manager | Fabrikam | 2010 \u2013 2017\n\u2022 Program governance, cross-functional initiative portfolio, PMO standards\n\nSKILLS\nPortfolio management, PMP, governance, stakeholder management, transformation, benefits tracking\n",
+  "expected_primary": "program_leadership",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "enterprise_delivery",
+    "transformation_office",
+    "technical_program_management"
+  ],
+  "forbidden_families": [
+    "software_engineering",
+    "operations",
+    "hr",
+    "sales"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

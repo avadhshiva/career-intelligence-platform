@@ -1,0 +1,18 @@
+{
+  "fixture_id": "rw_digital_transformation_lead_03",
+  "resume_text": "\nCandidate C-3305 | c3305@anon.example\nDigital Transformation Director | Retail Group | 2017 \u2013 Present\n\u2022 Enterprise digital transformation roadmap and change management\n\u2022 Operating model redesign and business transformation portfolio\n\u2022 Executive steering committee and benefits realization\n",
+  "expected_primary": "transformation_office",
+  "acceptable_primaries": [
+    "digital_transformation",
+    "program_leadership"
+  ],
+  "allowed_adjacent": [
+    "digital_transformation",
+    "ai_transformation"
+  ],
+  "forbidden_families": [
+    "software_engineering"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.28
+}

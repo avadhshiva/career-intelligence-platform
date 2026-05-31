@@ -1,0 +1,25 @@
+Ash Sivakumar
+Senior Technical Program Manager | Cloud & Platform Modernization
+Email: ash@example.com | Location: Chennai, IN
+
+SUMMARY
+- 10+ years leading platform modernization, cloud migrations, and enterprise delivery programs.
+- Strengths: stakeholder alignment, execution rigor, risk management, and cross-functional leadership.
+
+EXPERIENCE
+Senior Technical Program Manager — Platform Programs
+- Delivered multi-quarter cloud migration roadmap (AWS/Azure), reducing infra cost and improving reliability.
+- Led release governance and dependency management across 8 teams; improved on-time delivery.
+- Implemented operational metrics and incident postmortem cadence; lowered P1 incidents.
+
+Technical Program Manager — Product Delivery
+- Owned program planning for customer-facing launches; coordinated engineering, design, QA, and support.
+
+SKILLS
+- Program Management: OKRs, roadmaps, RAID logs, stakeholder comms
+- Cloud: AWS, Azure, Kubernetes, Observability, SRE fundamentals
+- Delivery: Agile, SDLC, release management
+
+EDUCATION
+- B.E. (Computer Science)
+

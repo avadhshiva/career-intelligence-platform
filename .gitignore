@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Testing / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Environment & secrets
+.env
+.env.local
+*.pem
+credentials.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & local observability output
+logs/
+*.log
+career_agent_platform/logs/
+
+# Runtime persistence (user/session data — not for version control)
+career_agent_platform/data/active_resume.json
+career_agent_platform/data/resumes/*.json
+!career_agent_platform/data/resumes/.gitkeep
+career_agent_platform/applications/data/**/*.json
+!career_agent_platform/applications/data/**/.gitkeep
+career_agent_platform/memory/data/
+career_agent_platform/application_tracking/data/
+career_agent_platform/applications/data/application_packages/**/*
+!career_agent_platform/applications/data/application_packages/**/.gitkeep
+
+# UI verification artifacts
+# UI verification artifacts
+verification_screenshots/
+
+# Ignore PNGs by default
+*.png
+
+# Allow documentation screenshots
+!docs/screenshots/
+!docs/screenshots/*.png
+
+# Exports & temp
+career_agent_platform/applications/data/application_packages/exports/
+tmp/
+temp/
+*.tmp
+
+# OneDrive / editor noise
+~$*

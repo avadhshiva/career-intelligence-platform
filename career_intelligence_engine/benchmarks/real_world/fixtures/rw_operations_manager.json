@@ -1,0 +1,17 @@
+{
+  "fixture_id": "rw_operations_manager",
+  "resume_text": "\nMorgan Lee | morgan.lee@email.com\n\nEXPERIENCE\nOperations Manager | Ops Corp | 2016 \u2013 Present\n\u2022 Run operations for production systems with SLA management and incident management\n\u2022 Service operations, NOC coordination, and operational continuity programs\n\u2022 IT operations support model and production support for hosted services\n\nOperations Analyst | Host Co | 2010 \u2013 2016\n\u2022 IT operations, incident management, and service operations\n\nSKILLS\nIT operations, SLA, incident management, service operations, production support, NOC, run operations\n",
+  "expected_primary": "operations",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "enterprise_operations",
+    "enterprise_delivery"
+  ],
+  "forbidden_families": [
+    "ai_transformation",
+    "program_leadership",
+    "technical_program_management"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

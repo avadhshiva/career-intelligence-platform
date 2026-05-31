@@ -1,0 +1,109 @@
+{
+  "snapshot_id": "ac43eb443d0303fd",
+  "created_at": "2026-05-31T11:17:27+00:00",
+  "resume_fingerprint": "7ce90bdcd59177d0",
+  "profile_primary_track": "program_leadership",
+  "ontology_version": "ontology-a0f4a4506e39",
+  "recommendation_hash": "bb074ad03e9afa86",
+  "items": [
+    {
+      "job_id": "sample_enterprise_delivery_001",
+      "job_title": "Enterprise Delivery Director",
+      "company": "Matrix Industries",
+      "overall_match": 0.8287,
+      "confidence": 0.95,
+      "recommendation_priority": "STRONG_MATCH",
+      "eligibility_passed": true,
+      "primary_role_family": "program_leadership",
+      "dominant_dimensions": [
+        "Enterprise Governance",
+        "Stakeholder Complexity",
+        "Delivery Execution",
+        "Technical Execution"
+      ],
+      "missing_dimensions": [],
+      "role_cluster": "Program Leadership"
+    },
+    {
+      "job_id": "sample_tpm_001",
+      "job_title": "Senior Technical Program Manager",
+      "company": "Global Enterprise",
+      "overall_match": 0.6526,
+      "confidence": 0.95,
+      "recommendation_priority": "GOOD_MATCH",
+      "eligibility_passed": true,
+      "primary_role_family": "technical_program_management",
+      "dominant_dimensions": [
+        "Enterprise Governance",
+        "Stakeholder Complexity",
+        "Technical Execution",
+        "Delivery Execution"
+      ],
+      "missing_dimensions": [
+        "Release Governance",
+        "Change Management"
+      ],
+      "role_cluster": "Technical Program Management"
+    },
+    {
+      "job_id": "sample_release_gov_001",
+      "job_title": "Release Governance Lead",
+      "company": "Enterprise Corp",
+      "overall_match": 0.2763,
+      "confidence": 0.8073,
+      "recommendation_priority": "LOW_MATCH",
+      "eligibility_passed": false,
+      "primary_role_family": "release_governance",
+      "dominant_dimensions": [
+        "Enterprise Governance",
+        "Stakeholder Complexity",
+        "Technical Execution",
+        "Delivery Execution"
+      ],
+      "missing_dimensions": [
+        "Release Governance",
+        "Architecture Coordination"
+      ],
+      "role_cluster": "Release Governance"
+    },
+    {
+      "job_id": "sample_product_001",
+      "job_title": "Senior Product Manager",
+      "company": "SaaS Platform",
+      "overall_match": 0.2354,
+      "confidence": 0.7664,
+      "recommendation_priority": "LOW_MATCH",
+      "eligibility_passed": false,
+      "primary_role_family": "product_management",
+      "dominant_dimensions": [
+        "Stakeholder Complexity"
+      ],
+      "missing_dimensions": [
+        "Product Thinking"
+      ],
+      "role_cluster": "Product Management"
+    },
+    {
+      "job_id": "sample_operations_001",
+      "job_title": "IT Operations Manager",
+      "company": "Ops Corp",
+      "overall_match": 0.1931,
+      "confidence": 0.77,
+      "recommendation_priority": "LOW_MATCH",
+      "eligibility_passed": false,
+      "primary_role_family": "operations",
+      "dominant_dimensions": [
+        "Enterprise Governance"
+      ],
+      "missing_dimensions": [
+        "Operational Management"
+      ],
+      "role_cluster": "Operations"
+    }
+  ],
+  "metadata": {
+    "label": "Delivery / program leadership",
+    "fixture_id": "delivery_leadership_sample",
+    "job_feed": "sample_job_feed.json"
+  }
+}

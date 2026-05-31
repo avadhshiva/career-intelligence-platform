@@ -1,0 +1,15 @@
+{
+  "fixture_id": "rw_product_delivery_lead",
+  "resume_text": "\nBlake Torres | blake.torres@email.com\n\nEXPERIENCE\nProduct Operations Manager | LaunchCo | 2018 \u2013 Present\n\u2022 Owned product delivery operations and product launch governance for SaaS platform\n\u2022 Product lifecycle management, product operations, and product launch cadence\n\u2022 Product delivery lead for product launch and product operations across the portfolio\n\u2022 Product lifecycle ownership with backlog ownership for product delivery outcomes\n\nProduct Delivery Lead | SaaS Co | 2013 \u2013 2018\n\u2022 Product delivery, product launch, product lifecycle, and product operations\n\nSKILLS\nProduct delivery, product launch, product lifecycle, product operations, product delivery lead, backlog ownership\n",
+  "expected_primary": "product_delivery",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "product_management"
+  ],
+  "forbidden_families": [
+    "release_governance",
+    "technical_program_management"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.25
+}

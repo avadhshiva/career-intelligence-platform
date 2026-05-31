@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_ai_governance_lead_05",
+  "resume_text": "\nCandidate E-5521 | e5521@anon.example\nAI Governance Lead | Regulated Enterprise | 2019 \u2013 Present\n\u2022 Responsible AI framework and model governance council\n\u2022 Enterprise AI policy, risk, and compliance oversight\n\u2022 AI ethics and regulatory alignment for GenAI programs\n",
+  "expected_primary": "ai_governance",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "ai_transformation",
+    "ai_program_management"
+  ],
+  "forbidden_families": [
+    "software_engineering",
+    "sales"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.28
+}

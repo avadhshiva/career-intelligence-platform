@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_product_owner_14",
+  "resume_text": "\nCandidate N-5510 | n5510@anon.example\nSenior Product Owner | FinTech | 2016 \u2013 Present\n\u2022 Product roadmap, user stories, and backlog prioritization\n\u2022 PRD ownership and customer discovery for B2B SaaS\n\u2022 Sprint planning with engineering and design partners\n",
+  "expected_primary": "product_management",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "product_delivery",
+    "digital_transformation"
+  ],
+  "forbidden_families": [
+    "technical_program_management",
+    "operations"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.28
+}

@@ -1,0 +1,86 @@
+{
+  "confidence": {
+    "ambiguity_score": 0.6808,
+    "confidence_level": "MEDIUM",
+    "confidence_score": 0.5044,
+    "evidence_density": 0.5333,
+    "top_gap": 0.3192
+  },
+  "contamination_signals": [
+    {
+      "contamination_score": 0.6808,
+      "family": "Finance",
+      "reasons": [
+        "Semantically distant family (finance) ranks high despite far-family designation."
+      ]
+    },
+    {
+      "contamination_score": 0.6642,
+      "family": "Sales",
+      "reasons": [
+        "Sales is excluded from Program Leadership but still scores 66% of primary.",
+        "Sales proximity inflated by revenue, pipeline, or client-facing language."
+      ]
+    }
+  ],
+  "dominant_dimensions": [
+    "Enterprise Governance",
+    "Stakeholder Complexity",
+    "Executive Communication",
+    "Portfolio Management"
+  ],
+  "exclusions": [
+    "enterprise_architecture_delivery",
+    "platform_modernization",
+    "product_delivery",
+    "enterprise_operations",
+    "product_management",
+    "software_engineering",
+    "operations"
+  ],
+  "fixture_id": "rw_program_leadership_enterprise",
+  "primary": "program_leadership",
+  "scorer_path": "canonical_unified_pipeline",
+  "top_rankings": [
+    {
+      "family": "program_leadership",
+      "rank": 1,
+      "score": 0.9419
+    },
+    {
+      "family": "finance",
+      "rank": 2,
+      "score": 0.6412
+    },
+    {
+      "family": "enterprise_delivery",
+      "rank": 3,
+      "score": 0.6308
+    },
+    {
+      "family": "sales",
+      "rank": 4,
+      "score": 0.6256
+    },
+    {
+      "family": "transformation_office",
+      "rank": 5,
+      "score": 0.518
+    },
+    {
+      "family": "digital_transformation",
+      "rank": 6,
+      "score": 0.456
+    },
+    {
+      "family": "hr",
+      "rank": 7,
+      "score": 0.4235
+    },
+    {
+      "family": "ai_transformation",
+      "rank": 8,
+      "score": 0.2109
+    }
+  ]
+}

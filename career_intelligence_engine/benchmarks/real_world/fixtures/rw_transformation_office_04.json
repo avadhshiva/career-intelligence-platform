@@ -1,0 +1,16 @@
+{
+  "fixture_id": "rw_transformation_office_04",
+  "resume_text": "\nCandidate D-4410 | d4410@anon.example\nTransformation Office Lead | Bank | 2018 \u2013 Present\n\u2022 Transformation office governance and initiative portfolio\n\u2022 Change management and operating model alignment\n\u2022 PMO and transformation program governance\n",
+  "expected_primary": "transformation_office",
+  "acceptable_primaries": [],
+  "allowed_adjacent": [
+    "digital_transformation",
+    "program_leadership"
+  ],
+  "forbidden_families": [
+    "sales",
+    "software_engineering"
+  ],
+  "expected_exclusions": [],
+  "minimum_confidence": 0.28
+}
