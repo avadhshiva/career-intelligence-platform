@@ -13,6 +13,7 @@ _PROGRAM_CLUSTER = frozenset(
         RoleFamilyId.TECHNICAL_PROGRAM_MANAGEMENT,
         RoleFamilyId.RELEASE_GOVERNANCE,
         RoleFamilyId.ENTERPRISE_DELIVERY,
+        RoleFamilyId.AI_PROGRAM_MANAGEMENT,
     }
 )
 
