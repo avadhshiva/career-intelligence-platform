@@ -31,7 +31,6 @@ FIXTURE = BenchmarkResumeFixture(
     expected_primary=RoleFamilyId.CLOUD_TRANSFORMATION,
     expected_adjacent=(
         RoleFamilyId.TECHNICAL_PROGRAM_MANAGEMENT,
-        RoleFamilyId.ENTERPRISE_DELIVERY,
     ),
     forbidden_families=(
         RoleFamilyId.AI_GOVERNANCE,
