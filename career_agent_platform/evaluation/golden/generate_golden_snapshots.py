@@ -50,6 +50,7 @@ def generate_all() -> dict[str, str]:
             resume_text=resume_text,
             profile_primary_track=track,
             label=label,
+            created_at="",
             metadata={"fixture_id": fixture_id, "job_feed": str(_JOB_FEED.name)},
         )
         out = GOLDEN_DIR / f"{fixture_id}.json"

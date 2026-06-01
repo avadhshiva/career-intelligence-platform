@@ -101,6 +101,7 @@ def capture_snapshot(
     profile_primary_track: str = "",
     ontology_version: str = "",
     label: str = "",
+    created_at: str | None = None,
     metadata: dict[str, Any] | None = None,
 ) -> RecommendationSnapshot:
     """Build an in-memory snapshot from a recommendation run."""
@@ -108,12 +109,11 @@ def capture_snapshot(
 
     items = [_normalize_item(r) for r in recommendations]
     rec_hash = recommendation_hash(items)
-    created = _utc_now_iso()
+    created = created_at if created_at is not None else _utc_now_iso()
     snap_id = _stable_hash(
         {
             "resume": resume_fingerprint(resume_text) if resume_text else "",
             "rec_hash": rec_hash,
-            "created": created,
             "label": label,
         },
     )
