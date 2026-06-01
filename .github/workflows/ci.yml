@@ -35,16 +35,23 @@ jobs:
       - name: Golden snapshot regression
         run: python -m pytest tests/test_golden_recommendations.py -q --tb=short
 
-      - name: Demo mode guards
+          - name: Demo mode guards
         env:
           CAREER_AGENT_DEMO_MODE: "1"
         run: python -m pytest tests/test_demo_mode.py -q --tb=short
+
+      - name: Debug ontology version
+        run: |
+          python -c "
+          from career_intelligence_engine.ontology.version import get_ontology_version
+          print('ONTOLOGY_VERSION=', get_ontology_version())
+          "
 
       - name: Golden snapshot generator determinism
         run: |
           python evaluation/golden/generate_golden_snapshots.py
           git diff --exit-code evaluation/golden/ || (
-            echo "Golden snapshots changed after regeneration — commit updated files or fix nondeterminism"
+            echo 'Golden snapshots changed after regeneration - commit updated files or fix nondeterminism'
             exit 1
           )
 
